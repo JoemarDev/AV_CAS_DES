@@ -1,0 +1,535 @@
+{
+    "list": [
+        {
+            "code": "270",
+            "name_eng": "Lotus Charm",
+            "name_kor": "로터스 챰",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_270_en.jpg?ts=1656940218474"
+        },
+        {
+            "code": "187",
+            "name_eng": "Aztec Sun",
+            "name_kor": "아즈텍 선",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_187_en.jpe?ts=1591699656458"
+        },
+        {
+            "code": "254",
+            "name_eng": "Black Wolf",
+            "name_kor": "블랙 울프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_254_en.jpg?ts=1637589465054"
+        },
+        {
+            "code": "86",
+            "name_eng": "God's Temple Deluxe",
+            "name_kor": "갓스 템플 Deluxe",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/static/games/banner_86_en.png"
+        },
+        {
+            "code": "245",
+            "name_eng": "Lord Fortune 2",
+            "name_kor": "로드 포츈 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_245_en.jpg?ts=1633430937520"
+        },
+        {
+            "code": "217",
+            "name_eng": "Super Rich God: Hold and Win",
+            "name_kor": "슈퍼 리치 골드: Hold and win",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_217_en.jpg?ts=1614080397964"
+        },
+        {
+            "code": "139",
+            "name_eng": "Book of Sun",
+            "name_kor": "북 오브 선",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/static/games/banner_139_en.jpg"
+        },
+        {
+            "code": "148",
+            "name_eng": "777 Gems",
+            "name_kor": "777 젬스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_148_en.jpeg"
+        },
+        {
+            "code": "157",
+            "name_eng": "Book of Sun Multichance",
+            "name_kor": "북 오브 선 멀티찬스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_157_en.jpg?ts=1557834927593"
+        },
+        {
+            "code": "166",
+            "name_eng": "Olympian Gods",
+            "name_kor": "올림피안 갓스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_166_en.jpeg?ts=1565181937129"
+        },
+        {
+            "code": "232",
+            "name_eng": "Pearl Diver",
+            "name_kor": "펄 다이버",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_232_en.jpg?ts=1624952929307"
+        },
+        {
+            "code": "175",
+            "name_eng": "777 Gems ReSpin",
+            "name_kor": "777 젬스 리스핀",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_175_en.jpg?ts=1575289527907"
+        },
+        {
+            "code": "178",
+            "name_eng": "Tiger's Gold",
+            "name_kor": "타이거스 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_178_en.jpe?ts=1580204919370"
+        },
+        {
+            "code": "183",
+            "name_eng": "Moon Sisters",
+            "name_kor": "문 시스터스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_183_en.jpg?ts=1589276977044"
+        },
+        {
+            "code": "184",
+            "name_eng": "Book of Sun: Choice",
+            "name_kor": "북 오브 선: Choice",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_184_en.jpg?ts=1586766763403"
+        },
+        {
+            "code": "189",
+            "name_eng": "Super Marble",
+            "name_kor": "슈퍼 마블",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_189_en.jpg?ts=1592834985255"
+        },
+        {
+            "code": "190",
+            "name_eng": "Buddha Fortune",
+            "name_kor": "부다 포츈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_190_en.jpg?ts=1594723112381"
+        },
+        {
+            "code": "262",
+            "name_eng": "Sun of Egypt 3",
+            "name_kor": "선 오브 이집트 3",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_262_en.jpg?ts=1646655112312"
+        },
+        {
+            "code": "250",
+            "name_eng": "Candy Boom",
+            "name_kor": "캔디 붐",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_250_en.jpg?ts=1635783617393"
+        },
+        {
+            "code": "228",
+            "name_eng": "Hit the Gold!",
+            "name_kor": "히트 더골드!",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_228_en.jpg?ts=1621873173151"
+        },
+        {
+            "code": "269",
+            "name_eng": "Eggs of Gold",
+            "name_kor": "에그스 오브 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_269_en.png?ts=1654527086090"
+        },
+        {
+            "code": "267",
+            "name_eng": "The King of Heroes",
+            "name_kor": "더 킹 오브 히어로스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_267_en.jpg?ts=1653373006722"
+        },
+        {
+            "code": "266",
+            "name_eng": "Magic Apple 2",
+            "name_kor": "매직 애플 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_266_en.jpg?ts=1652173930459"
+        },
+        {
+            "code": "261",
+            "name_eng": "Happy Fish",
+            "name_kor": "해피 피쉬",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_261_en.jpg?ts=1644912611364"
+        },
+        {
+            "code": "256",
+            "name_eng": "Queen Of The Sun",
+            "name_kor": "퀀 오브더 선",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_256_en.jpg?ts=1643099409287"
+        },
+        {
+            "code": "259",
+            "name_eng": "Pearl Diver 2: Treasure Chest",
+            "name_kor": "펄 다이버 2: 트래져 체스트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_259_en.jpg?ts=1645521353434"
+        },
+        {
+            "code": "255",
+            "name_eng": "Book of Wizard Crystal Chance",
+            "name_kor": "북 오브 위자드 크리스탈 찬스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_255_en.jpg?ts=1641895746148"
+        },
+        {
+            "code": "14",
+            "name_eng": "15 Golden Eggs",
+            "name_kor": "12 골든 에그스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/static/games/banner_14_en.png"
+        },
+        {
+            "code": "249",
+            "name_eng": "Gold Express",
+            "name_kor": "골드 익스프레스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_249_en.jpg?ts=1634629019700"
+        },
+        {
+            "code": "236",
+            "name_eng": "3 Coins: Egypt",
+            "name_kor": "3 코인스: 이집트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_236_en.jpg?ts=1626173501198"
+        },
+        {
+            "code": "252",
+            "name_eng": "Golden Dancing Lion",
+            "name_kor": "골든 댄싱 라이언",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_252_en.jpg?ts=1637050697146"
+        },
+        {
+            "code": "233",
+            "name_eng": "Wukong",
+            "name_kor": "워콩",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_233_en.jpg?ts=1624348278790"
+        },
+        {
+            "code": "237",
+            "name_eng": "Wolf Night",
+            "name_kor": "울프 나이트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_237_en.jpg?ts=1628583185745"
+        },
+        {
+            "code": "231",
+            "name_eng": "Scarab Boost",
+            "name_kor": "스캐럽 부스트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_231_en.jpg?ts=1623137017503"
+        },
+        {
+            "code": "212",
+            "name_eng": "3 Coins",
+            "name_kor": "3 코인스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_212_en.jpg?ts=1610363762913"
+        },
+        {
+            "code": "202",
+            "name_eng": "Sun of Egypt 2",
+            "name_kor": "선 오브 이집트 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_202_en.jpg?ts=1602582288012"
+        },
+        {
+            "code": "151",
+            "name_eng": "Dragon Pearls: Hold and Win",
+            "name_kor": "드래곤 펄스: Hold and win",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_151_en.jpeg?ts=1551785453936"
+        },
+        {
+            "code": "197",
+            "name_eng": "15 Dragon Pearls",
+            "name_kor": "15 드래곤 펄스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_197_en.jpeg?ts=1597062411022"
+        },
+        {
+            "code": "242",
+            "name_eng": "Tiger Jungle",
+            "name_kor": "타이거 정글",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_242_en.jpg?ts=1630999887216"
+        },
+        {
+            "code": "240",
+            "name_eng": "Ganesha Boost",
+            "name_kor": "가네샤 부스트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_240_en.jpg?ts=1629708978121"
+        },
+        {
+            "code": "244",
+            "name_eng": "Book of Wizard",
+            "name_kor": "북 오브 위자드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_244_en.jpg?ts=1632823480279"
+        },
+        {
+            "code": "168",
+            "name_eng": "Scarab Riches",
+            "name_kor": "스크랩 리치스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_168_en.jpe?ts=1568115171958"
+        },
+        {
+            "code": "181",
+            "name_eng": "Great Panda: Hold and Win",
+            "name_kor": "그레이트 판다: Hold and win",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_181_en.jpg?ts=1583843045334"
+        },
+        {
+            "code": "173",
+            "name_eng": "Sun of Egypt: Hold and Win",
+            "name_kor": "선 오브 이집트: Hold and Win",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_173_en.jpe?ts=1573550830337"
+        },
+        {
+            "code": "201",
+            "name_eng": "Scarab Temple",
+            "name_kor": "스캐럽 탬플",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_201_en.jpeg?ts=1601369529833"
+        },
+        {
+            "code": "272",
+            "name_eng": "Aztec Fire",
+            "name_kor": "아즈텍 파이어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_272_en.jpg?ts=1658177726858"
+        },
+        {
+            "code": "265",
+            "name_eng": "Caishen Wealth",
+            "name_kor": "카이셴 웰스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_265_en.jpg?ts=1649711719448"
+        },
+        {
+            "code": "200",
+            "name_eng": "Thunder of Olympus",
+            "name_kor": "썬더 오브 올림푸스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_200_en.jpe?ts=1599463031466"
+        },
+        {
+            "code": "204",
+            "name_eng": "Eye of Gold",
+            "name_kor": "아이 오브 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_204_en.jpg?ts=1607423095999"
+        },
+        {
+            "code": "209",
+            "name_eng": "Tiger Stone",
+            "name_kor": "타이거 스톤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_209_en.jpg?ts=1604945706164"
+        },
+        {
+            "code": "219",
+            "name_eng": "Magic Apple",
+            "name_kor": "매직 애플",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_219_en.jpg?ts=1615278797585"
+        },
+        {
+            "code": "223",
+            "name_eng": "Magic Ball: Multichance",
+            "name_kor": "매직 볼",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_223_en.jpg?ts=1618214765589"
+        },
+        {
+            "code": "216",
+            "name_eng": "Wolf Saga",
+            "name_kor": "울프 사가",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_216_en.png?ts=1612371564816"
+        },
+        {
+            "code": "274",
+            "name_eng": "Big Heist",
+            "name_kor": "빅 하이스트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_274_en.jpg?ts=1661249683962"
+        },
+        {
+            "code": "276",
+            "name_eng": "Green Chilli",
+            "name_kor": "그린칠리",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_276_en.jpg?ts=1663056308794"
+        },
+        {
+            "code": "278",
+            "name_eng": "Sticky Piggy",
+            "name_kor": "스티키 피기",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_278_en.jpg?ts=1664791378125"
+        },
+        {
+            "code": "280",
+            "name_eng": "Hit more Gold!",
+            "name_kor": "히트 모어 골드!",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_280_en.jpg?ts=1667898917916"
+        },
+        {
+            "code": "285",
+            "name_eng": "Goddess of Egypt",
+            "name_kor": "가디스 오브 이집트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_285_en.jpg?ts=1670272032163"
+        },
+        {
+            "code": "283",
+            "name_eng": "Rio Gems",
+            "name_kor": "리오 젬스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://cdn46952.bngsrv.com/games/banner_283_en.png?ts=1669645082313"
+        }
+    ]
+}

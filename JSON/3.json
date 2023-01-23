@@ -1,0 +1,2578 @@
+{
+    "list": [
+        {
+            "code": "vs20sugarrush",
+            "name_eng": "Sugar Rush",
+            "name_kor": "슈가 러시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20sugarrush.png"
+        },
+        {
+            "code": "vs20olympgate",
+            "name_eng": "Gates of Olympus",
+            "name_kor": "게이츠 오브 올림푸스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20olympgate.png"
+        },
+        {
+            "code": "vs20tweethouse",
+            "name_eng": "The Tweety House",
+            "name_kor": "더 트위티 하우스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20tweethouse.png"
+        },
+        {
+            "code": "vs20starlight",
+            "name_eng": "Starlight Princess",
+            "name_kor": "스타라이트 프린세스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20starlight.png"
+        },
+        {
+            "code": "vs20fruitsw",
+            "name_eng": "Sweet Bonanza",
+            "name_kor": "스위트 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20fruitsw.png"
+        },
+        {
+            "code": "vswayslions",
+            "name_eng": "5 Lions Megaways",
+            "name_kor": "5 라이온 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayslions.png"
+        },
+        {
+            "code": "vswaysdogs",
+            "name_eng": "The Dog House Megaways",
+            "name_kor": "더 도그 하우스 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysdogs.png"
+        },
+        {
+            "code": "vs20sbxmas",
+            "name_eng": "Sweet Bonanza Xmas",
+            "name_kor": "스위트 보난자 Xmas",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20sbxmas.png"
+        },
+        {
+            "code": "vs20pbonanza",
+            "name_eng": "Pyramid Bonanza",
+            "name_kor": "피라미드 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20pbonanza.png"
+        },
+        {
+            "code": "vs20gatotgates",
+            "name_eng": "Gates of Gatot Kaca",
+            "name_kor": "게이트 오브 가토가챠",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20gatotgates.png"
+        },
+        {
+            "code": "vs20doghouse",
+            "name_eng": "The Dog House",
+            "name_kor": "더 도그 하우스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20doghouse.png"
+        },
+        {
+            "code": "vs40wildwest",
+            "name_eng": "Wild West Gold",
+            "name_kor": "와일드 웨스트 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40wildwest.png"
+        },
+        {
+            "code": "vs5aztecgems",
+            "name_eng": "Aztec Gems",
+            "name_kor": "아즈텍 젬",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5aztecgems.png"
+        },
+        {
+            "code": "vs20bonzgold",
+            "name_eng": "Bonanza Gold",
+            "name_kor": "보난자 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20bonzgold.png"
+        },
+        {
+            "code": "vs25pandagold",
+            "name_eng": "Panda's Fortune",
+            "name_kor": "판다스 포츈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25pandagold.png"
+        },
+        {
+            "code": "vs20schristmas",
+            "name_eng": "Starlight Christmas",
+            "name_kor": "별빛 크리스마스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20schristmas.png"
+        },
+        {
+            "code": "vswayshammthor",
+            "name_eng": "Power of Thor Megaways",
+            "name_kor": "파워 오브 토르 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayshammthor.png"
+        },
+        {
+            "code": "vs20amuleteg",
+            "name_eng": "Fortune of Giza",
+            "name_kor": "포츈 오브 기자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20amuleteg.png"
+        },
+        {
+            "code": "vswaysrhino",
+            "name_eng": "Great Rhino Megaways",
+            "name_kor": "그레이트 리노 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysrhino.png"
+        },
+        {
+            "code": "vs20fruitparty",
+            "name_eng": "Fruit Party",
+            "name_kor": "프루트 파티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20fruitparty.png"
+        },
+        {
+            "code": "vs243lionsgold",
+            "name_eng": "5 Lions Gold",
+            "name_kor": "5 라이온 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243lionsgold.png"
+        },
+        {
+            "code": "vs20cleocatra",
+            "name_eng": "Cleocatra",
+            "name_kor": "클레오캣트라",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20cleocatra.png"
+        },
+        {
+            "code": "vswaysbufking",
+            "name_eng": "Buffalo King Megaways",
+            "name_kor": "버팔로 킹 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysbufking.png"
+        },
+        {
+            "code": "vs20porbs",
+            "name_eng": "Santa's Great Gifts",
+            "name_kor": "산타의 위대한 선물",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20porbs.png"
+        },
+        {
+            "code": "vs20muertos",
+            "name_eng": "Muertos Multiplier Megaways",
+            "name_kor": "무에르토스 배당  메가웨이즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20muertos.png"
+        },
+        {
+            "code": "vs20candvil",
+            "name_eng": "Candy Village",
+            "name_kor": "캔디 빌리지",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20candvil.png"
+        },
+        {
+            "code": "vs5joker",
+            "name_eng": "Joker's Jewels",
+            "name_kor": "조커 쥬얼",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5joker.png"
+        },
+        {
+            "code": "vs25pandatemple",
+            "name_eng": "Panda Fortune 2",
+            "name_kor": "판다 포츈 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25pandatemple.png"
+        },
+        {
+            "code": "vswaysmadame",
+            "name_eng": "Madame Destiny Megaways",
+            "name_kor": "마담 데스티니 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysmadame.png"
+        },
+        {
+            "code": "vs25rlbank",
+            "name_eng": "Reel Banks",
+            "name_kor": "릴 뱅크",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25rlbank.png"
+        },
+        {
+            "code": "vswayspizza",
+            "name_eng": "PIZZA PIZZA PIZZA",
+            "name_kor": "피자!피자?피자!",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayspizza.png"
+        },
+        {
+            "code": "vswaysrabbits",
+            "name_eng": "5 Rabbits Megaways",
+            "name_kor": "파이브 래빗 메가웨이",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysrabbits.png"
+        },
+        {
+            "code": "vs20drgbless",
+            "name_eng": "Dragon Hero",
+            "name_kor": "드래곤 히어로",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20drgbless.png"
+        },
+        {
+            "code": "vs20swordofares",
+            "name_eng": "Sword of Ares",
+            "name_kor": "아레스의 검",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20swordofares.png"
+        },
+        {
+            "code": "vs12bbb",
+            "name_eng": "Bigger Bass Bonanza",
+            "name_kor": "비거 베스 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs12bbb.png"
+        },
+        {
+            "code": "vs20midas",
+            "name_eng": "The Hand of Midas",
+            "name_kor": "더 핸드 오브 마이다스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20midas.png"
+        },
+        {
+            "code": "vs20farmfest",
+            "name_eng": "Barn Festival",
+            "name_kor": "반 페스티발",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20farmfest.png"
+        },
+        {
+            "code": "vs4096bufking",
+            "name_eng": "Buffalo King",
+            "name_kor": "버팔로 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs4096bufking.png"
+        },
+        {
+            "code": "vs10bbkir",
+            "name_eng": "Big Bass Bonanza - Keeping it Reel",
+            "name_kor": "빅 베이스 키핑 잇 릴",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10bbkir.png"
+        },
+        {
+            "code": "vswaysluckyfish",
+            "name_eng": "Lucky Fishing",
+            "name_kor": "행운의 낚시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysluckyfish.png"
+        },
+        {
+            "code": "vs20sparta",
+            "name_eng": "Shield Of Sparta",
+            "name_kor": "스파르타의 방패",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20sparta.png"
+        },
+        {
+            "code": "vs20mtreasure",
+            "name_eng": "Pirate Golden Age",
+            "name_kor": "해적의 황금시대",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20mtreasure.png"
+        },
+        {
+            "code": "vs20lcount",
+            "name_eng": "Gems of Serengeti",
+            "name_kor": "세렝게티의 보석",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20lcount.png"
+        },
+        {
+            "code": "vswaysconcoll",
+            "name_eng": "Firebird Spirit - Connect & Collect",
+            "name_kor": "파이어버드 스피릿 연결& 수집",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysconcoll.png"
+        },
+        {
+            "code": "vs20theights",
+            "name_eng": "Towering Fortunes",
+            "name_kor": "타워링 포춘",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20theights.png"
+        },
+        {
+            "code": "vs25kfruit",
+            "name_eng": "Aztec Blaze",
+            "name_kor": "아즈텍 블레이즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25kfruit.png"
+        },
+        {
+            "code": "vs20kraken2",
+            "name_eng": "Release the Kraken 2",
+            "name_kor": "릴리스 더 크라켄2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20kraken2.png"
+        },
+        {
+            "code": "vs7776aztec",
+            "name_eng": "Aztec Bonanza",
+            "name_kor": "아즈텍 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs7776aztec.png"
+        },
+        {
+            "code": "vs20mparty",
+            "name_eng": "Wild Hop & Drop",
+            "name_kor": "와일드 홉 & 드롭",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20mparty.png"
+        },
+        {
+            "code": "vs1dragon8",
+            "name_eng": "888 Dragons",
+            "name_kor": "888 드래곤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1dragon8.png"
+        },
+        {
+            "code": "vs20asgard",
+            "name_eng": "Kingdom of Asgard",
+            "name_kor": "킹덤 오브 아스가르드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20asgard.png"
+        },
+        {
+            "code": "vs12bbbxmas",
+            "name_eng": "Bigger Bass Blizzard - Christmas Catch",
+            "name_kor": "더큰 베이스 눈보라 크리스마스 잡기",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs12bbbxmas.png"
+        },
+        {
+            "code": "vs10tut",
+            "name_eng": "Book Of Tut Respin",
+            "name_kor": "투탕카멘의 책 리스핀",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10tut.png"
+        },
+        {
+            "code": "vswaysfrywld",
+            "name_eng": "Spin & Score Megaways",
+            "name_kor": "스핀  & 스코어 메가웨이즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysfrywld.png"
+        },
+        {
+            "code": "vswaysjkrdrop",
+            "name_eng": "Tropical Tiki",
+            "name_kor": "트로피칼 티키",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysjkrdrop.png"
+        },
+        {
+            "code": "vs10txbigbass",
+            "name_eng": "Big Bass Splash",
+            "name_kor": "빅베스 스플래쉬",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10txbigbass.png"
+        },
+        {
+            "code": "vs10floatdrg",
+            "name_eng": "Floating Dragon",
+            "name_kor": "플로팅 드래곤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10floatdrg.png"
+        },
+        {
+            "code": "vswaysbook",
+            "name_eng": "Book of Golden Sands",
+            "name_kor": "황금모래의 책",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysbook.png"
+        },
+        {
+            "code": "vs5strh",
+            "name_eng": "Striking Hot 5",
+            "name_kor": "스트라이킹 핫 5",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5strh.png"
+        },
+        {
+            "code": "vswayslofhero",
+            "name_eng": "Legend of Heroes",
+            "name_kor": "레전드 오브 히어로즈 메가웨이즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayslofhero.png"
+        },
+        {
+            "code": "vs10snakeeyes",
+            "name_eng": "Snakes & Ladders - Snake Eyes",
+            "name_kor": "뱀과 사다리 - 뱀의 눈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10snakeeyes.png"
+        },
+        {
+            "code": "vs10crownfire",
+            "name_eng": "Crown of Fire",
+            "name_kor": "불의 왕관",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10crownfire.png"
+        },
+        {
+            "code": "vs20trswild2",
+            "name_eng": "Black Bull",
+            "name_kor": "블랙 불",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20trswild2.png"
+        },
+        {
+            "code": "vswaysstrwild",
+            "name_eng": "Candy Stars",
+            "name_kor": "캔디 스타",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysstrwild.png"
+        },
+        {
+            "code": "vswaysfltdrg",
+            "name_eng": "Floating Dragon Hold & Spin Megaways",
+            "name_kor": "플로팅 드래곤 메가웨이즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysfltdrg.png"
+        },
+        {
+            "code": "vs10mmm",
+            "name_eng": "Magic Money Maze",
+            "name_kor": "매직 머니 메이즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10mmm.png"
+        },
+        {
+            "code": "vs20underground",
+            "name_eng": "Down the Rails",
+            "name_kor": "철도잠행",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20underground.png"
+        },
+        {
+            "code": "vs20wolfie",
+            "name_eng": "Greedy Wolf",
+            "name_kor": "욕심 많은 늑대",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20wolfie.png"
+        },
+        {
+            "code": "vs5firehot",
+            "name_eng": "Fire Hot 5",
+            "name_kor": "파이어 핫 5",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5firehot.png"
+        },
+        {
+            "code": "vs20fh",
+            "name_eng": "Fire Hot 20",
+            "name_kor": "파이어 핫 20",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20fh.png"
+        },
+        {
+            "code": "vs40firehot",
+            "name_eng": "Fire Hot 40",
+            "name_kor": "파이어 핫 40",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40firehot.png"
+        },
+        {
+            "code": "vs100firehot",
+            "name_eng": "Fire Hot 100",
+            "name_kor": "파이어 핫 100",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs100firehot.png"
+        },
+        {
+            "code": "vs1024gmayhem",
+            "name_eng": "Gorilla Mayhem",
+            "name_kor": "고릴라 메이햄",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1024gmayhem.png"
+        },
+        {
+            "code": "vs20octobeer",
+            "name_eng": "Octobeer Fortunes",
+            "name_kor": "옥토비어 포츈스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20octobeer.png"
+        },
+        {
+            "code": "vs9aztecgemsdx",
+            "name_eng": "Aztec Gems Deluxe",
+            "name_kor": "아즈텍 젬 Deluxe",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs9aztecgemsdx.png"
+        },
+        {
+            "code": "vs1024mahjpanda",
+            "name_eng": "Mahjong Panda",
+            "name_kor": "메종 판다",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1024mahjpanda.png"
+        },
+        {
+            "code": "vs10coffee",
+            "name_eng": "Coffee Wild",
+            "name_kor": "커피 와일드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10coffee.png"
+        },
+        {
+            "code": "vswayswildwest",
+            "name_eng": "Wild West Gold Megaways",
+            "name_kor": "와일드 웨스트 골드 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayswildwest.png"
+        },
+        {
+            "code": "vswaysxjuicy",
+            "name_eng": "Extra Juicy Megaways",
+            "name_kor": "엑스트라 쥬시 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysxjuicy.png"
+        },
+        {
+            "code": "vs20xmascarol",
+            "name_eng": "Christmas Carol Megaways",
+            "name_kor": "크리스마스 캐롤 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20xmascarol.png"
+        },
+        {
+            "code": "vswayslight",
+            "name_eng": "Lucky Lightning",
+            "name_kor": "럭키 라이트닝",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayslight.png"
+        },
+        {
+            "code": "vs25bomb",
+            "name_eng": "Bomb Bonanza",
+            "name_kor": "밤보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25bomb.png"
+        },
+        {
+            "code": "vswayssamurai",
+            "name_eng": "Rise of Samurai Megaways",
+            "name_kor": "라이즈 오브 사무라이 Megaway",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayssamurai.png"
+        },
+        {
+            "code": "vs15diamond",
+            "name_eng": "Diamond Strike",
+            "name_kor": "다이아몬드 스트라이크",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs15diamond.png"
+        },
+        {
+            "code": "vs25hotfiesta",
+            "name_eng": "Hot Fiesta",
+            "name_kor": "핫 피에스타",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25hotfiesta.png"
+        },
+        {
+            "code": "vs20goldfever",
+            "name_eng": "Gems Bonanza",
+            "name_kor": "젬스 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20goldfever.png"
+        },
+        {
+            "code": "vs10bxmasbnza",
+            "name_eng": "Christmas Big Bass Bonanza",
+            "name_kor": "크리스마스 빅 배스 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10bxmasbnza.png"
+        },
+        {
+            "code": "vs40samurai3",
+            "name_eng": "Rise of Samurai 3",
+            "name_kor": "라이즈 오브 사무라이3",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40samurai3.png"
+        },
+        {
+            "code": "vs10firestrike",
+            "name_eng": "Fire Strike",
+            "name_kor": "파이어 스트라이크",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10firestrike.png"
+        },
+        {
+            "code": "vs100sh",
+            "name_eng": "Shining Hot 100",
+            "name_kor": "샤이닝 핫 100",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs100sh.png"
+        },
+        {
+            "code": "vs10bbbonanza",
+            "name_eng": "Big Bass Bonanza",
+            "name_kor": "빅 배스 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10bbbonanza.png"
+        },
+        {
+            "code": "vs40hotburnx",
+            "name_eng": "Hot To Burn Extreme",
+            "name_kor": "핫투번 익스트림",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40hotburnx.png"
+        },
+        {
+            "code": "vs243ckemp",
+            "name_eng": "Cheeky Emperor",
+            "name_kor": "치키 엠퍼러",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243ckemp.png"
+        },
+        {
+            "code": "vs5sh",
+            "name_eng": "Shining Hot 5",
+            "name_kor": "샤이닝 핫 5",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5sh.png"
+        },
+        {
+            "code": "vs20dugems",
+            "name_eng": "Hot Pepper",
+            "name_kor": "핫페퍼",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20dugems.png"
+        },
+        {
+            "code": "vs20sh",
+            "name_eng": "Shining Hot 20",
+            "name_kor": "샤이닝 핫 20",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20sh.png"
+        },
+        {
+            "code": "vs20clspwrndg",
+            "name_eng": "Sweet Powernudge",
+            "name_kor": "스위트 파워넛지",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20clspwrndg.png"
+        },
+        {
+            "code": "vs40sh",
+            "name_eng": "Shining Hot 40",
+            "name_kor": "샤이닝 핫 40",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40sh.png"
+        },
+        {
+            "code": "vs243caishien",
+            "name_eng": "Caishen's Cash",
+            "name_kor": "카이셴 캐시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243caishien.png"
+        },
+        {
+            "code": "vswayszombcarn",
+            "name_eng": "Zombie Carnival",
+            "name_kor": "좀비 카니발",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayszombcarn.png"
+        },
+        {
+            "code": "vs50northgard",
+            "name_eng": "North Guardians",
+            "name_kor": "노스 가디안스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50northgard.png"
+        },
+        {
+            "code": "vs243koipond",
+            "name_eng": "Koi Pond",
+            "name_kor": "코이 폰드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243koipond.png"
+        },
+        {
+            "code": "vs5littlegem",
+            "name_eng": "Little Gem Hold and Spin",
+            "name_kor": "리틀 잼 Hold and Spin",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5littlegem.png"
+        },
+        {
+            "code": "vs10egrich",
+            "name_eng": "Queen of Gods",
+            "name_kor": "퀸 오브 갓스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10egrich.png"
+        },
+        {
+            "code": "vs40cosmiccash",
+            "name_eng": "Cosmic Cash",
+            "name_kor": "코스믹 캐시 ",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40cosmiccash.png"
+        },
+        {
+            "code": "vs20gobnudge",
+            "name_eng": "Goblin Heist Powernudge",
+            "name_kor": "고블린 하이스트 파워넛지",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20gobnudge.png"
+        },
+        {
+            "code": "vs20stickysymbol",
+            "name_eng": "The Great Stick-up",
+            "name_kor": "더 그레이트 스틱업",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20stickysymbol.png"
+        },
+        {
+            "code": "vs40cleoeye",
+            "name_eng": "Eye of Cleopatra",
+            "name_kor": "아이 오브 클레오파트라",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40cleoeye.png"
+        },
+        {
+            "code": "vs10spiritadv",
+            "name_eng": "Spirit of Adventure",
+            "name_kor": "스피리츠 오브 어드벤쳐",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10spiritadv.png"
+        },
+        {
+            "code": "vs10firestrike2",
+            "name_eng": "Fire Strike 2",
+            "name_kor": "파이어 스트라이크 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10firestrike2.png"
+        },
+        {
+            "code": "vs20drtgold",
+            "name_eng": "Drill That Gold",
+            "name_kor": "드릴 댓 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20drtgold.png"
+        },
+        {
+            "code": "vs20trsbox",
+            "name_eng": "Treasure Wild",
+            "name_kor": "트래저 와일드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20trsbox.png"
+        },
+        {
+            "code": "vswaysaztecking",
+            "name_eng": "Aztec King Megaways",
+            "name_kor": "아즈텍 킹 Megaway",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysaztecking.png"
+        },
+        {
+            "code": "vs20mustanggld2",
+            "name_eng": "Clover Gold",
+            "name_kor": "클로버 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20mustanggld2.png"
+        },
+        {
+            "code": "vs25goldparty",
+            "name_eng": "Gold Party",
+            "name_kor": "골드 파티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25goldparty.png"
+        },
+        {
+            "code": "vs243empcaishen",
+            "name_eng": "Emperor Caishen",
+            "name_kor": "엠퍼러 카이셴",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243empcaishen.png"
+        },
+        {
+            "code": "vs25scarabqueen",
+            "name_eng": "John Hunter and the Tomb of the Scarab Queen",
+            "name_kor": "존 헌터 앤더 톰 오브더 스크랩 퀸",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25scarabqueen.png"
+        },
+        {
+            "code": "vs10amm",
+            "name_eng": "Amazing Money Machine",
+            "name_kor": "어메이징 머니 머신",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10amm.png"
+        },
+        {
+            "code": "vswayselements",
+            "name_eng": "Elemental Gems Megaways",
+            "name_kor": "엘리멘탈 젬 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayselements.png"
+        },
+        {
+            "code": "vs20superx",
+            "name_eng": "Super X",
+            "name_kor": "슈퍼 X",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20superx.png"
+        },
+        {
+            "code": "vs20fparty2",
+            "name_eng": "Fruit Party 2",
+            "name_kor": "프루트 파티 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20fparty2.png"
+        },
+        {
+            "code": "vs10nudgeit",
+            "name_eng": "Rise of Giza PowerNudge",
+            "name_kor": "라이즈 오브 기자 파워넛지",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10nudgeit.png"
+        },
+        {
+            "code": "vs20santawonder",
+            "name_eng": "Santa's Wonderland",
+            "name_kor": "산타스 원더랜드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20santawonder.png"
+        },
+        {
+            "code": "vs20phoenixf",
+            "name_eng": "Phoenix Forge",
+            "name_kor": "피닉스 포지",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20phoenixf.png"
+        },
+        {
+            "code": "vswayscryscav",
+            "name_eng": "Crystal Caverns Megaways",
+            "name_kor": "크리스털 캐번 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayscryscav.png"
+        },
+        {
+            "code": "vs25copsrobbers",
+            "name_eng": "Cash Patrol",
+            "name_kor": "캐시 패트롤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25copsrobbers.png"
+        },
+        {
+            "code": "vs243queenie",
+            "name_eng": "Queenie",
+            "name_kor": "퀴니",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243queenie.png"
+        },
+        {
+            "code": "vs10cowgold",
+            "name_eng": "Cowboys Gold",
+            "name_kor": "카우보이스 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10cowgold.png"
+        },
+        {
+            "code": "vswaysbbb",
+            "name_eng": "Big Bass Bonanza Megaways",
+            "name_kor": "빅 배스 보난자 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysbbb.png"
+        },
+        {
+            "code": "vs20bchprty",
+            "name_eng": "Wild Beach Party",
+            "name_kor": "와일드 비치 파티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20bchprty.png"
+        },
+        {
+            "code": "vs243lions",
+            "name_eng": "5 Lions",
+            "name_kor": "5 라이온",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243lions.png"
+        },
+        {
+            "code": "vs4096magician",
+            "name_eng": "Magician's Secrets",
+            "name_kor": "매지션 시크릿",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs4096magician.png"
+        },
+        {
+            "code": "vs20hburnhs",
+            "name_eng": "Hot to Burn Hold and Spin",
+            "name_kor": "핫 투 번 홀드 앤 스핀",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20hburnhs.png"
+        },
+        {
+            "code": "vswaysyumyum",
+            "name_eng": "Yum Yum Powerways",
+            "name_kor": "윰 윰 파워웨이즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysyumyum.png"
+        },
+        {
+            "code": "vs1024temuj",
+            "name_eng": "Temujin Treasures",
+            "name_kor": "테무진 트레져",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1024temuj.png"
+        },
+        {
+            "code": "vs20rhinoluxe",
+            "name_eng": "Great Rhino Deluxe",
+            "name_kor": "그레이트 리노 Deluxe",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20rhinoluxe.png"
+        },
+        {
+            "code": "vs25btygold",
+            "name_eng": "Bounty Gold",
+            "name_kor": "바운티 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25btygold.png"
+        },
+        {
+            "code": "vs50juicyfr",
+            "name_eng": "Juicy Fruits",
+            "name_kor": "쥬시 프루츠",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50juicyfr.png"
+        },
+        {
+            "code": "vs50mightra",
+            "name_eng": "Might of Ra",
+            "name_kor": "마이트 오브 라",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50mightra.png"
+        },
+        {
+            "code": "vs20rhino",
+            "name_eng": "Great Rhino",
+            "name_kor": "그레이트 리노",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20rhino.png"
+        },
+        {
+            "code": "vs10runes",
+            "name_eng": "Gates of Valhalla",
+            "name_kor": "게이츠 오브 발할라",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10runes.png"
+        },
+        {
+            "code": "vs7fire88",
+            "name_eng": "Fire 88",
+            "name_kor": "파이어 88",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs7fire88.png"
+        },
+        {
+            "code": "vs20kraken",
+            "name_eng": "Release the Kraken",
+            "name_kor": "릴리즈 더 크라켄",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20kraken.png"
+        },
+        {
+            "code": "vs20chickdrop",
+            "name_eng": "Chicken Drop",
+            "name_kor": "치킨 드롭",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20chickdrop.png"
+        },
+        {
+            "code": "vs20emptybank",
+            "name_eng": "Empty the Bank",
+            "name_kor": "엠프티 더 뱅크",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20emptybank.png"
+        },
+        {
+            "code": "vs5ultra",
+            "name_eng": "Ultra Hold and Spin",
+            "name_kor": "울트라 홀드 앤 스핀",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5ultra.png"
+        },
+        {
+            "code": "vs20ultim5",
+            "name_eng": "The Ultimate 5",
+            "name_kor": "더 얼티메이트 5",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20ultim5.png"
+        },
+        {
+            "code": "vs243fortseren",
+            "name_eng": "Greek Gods",
+            "name_kor": "그리크 갓",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243fortseren.png"
+        },
+        {
+            "code": "vs25tigeryear",
+            "name_eng": "Lucky New Year - Tiger Treasures",
+            "name_kor": "럭키 뉴이어 - 타이거 트래져",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25tigeryear.png"
+        },
+        {
+            "code": "vs1masterjoker",
+            "name_eng": "Master Joker",
+            "name_kor": "마스터 조커",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1masterjoker.png"
+        },
+        {
+            "code": "vs20rockvegas",
+            "name_eng": "Rock Vegas",
+            "name_kor": "락 베가스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20rockvegas.png"
+        },
+        {
+            "code": "vs10bookfallen",
+            "name_eng": "Book of Fallen",
+            "name_kor": "북 오브 폴른",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10bookfallen.png"
+        },
+        {
+            "code": "vs25gldox",
+            "name_eng": "Golden Ox",
+            "name_kor": "골든 옥스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25gldox.png"
+        },
+        {
+            "code": "vs576treasures",
+            "name_eng": "Wild Wild Riches",
+            "name_kor": "와일드 와일드 리치",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs576treasures.png"
+        },
+        {
+            "code": "vs5drhs",
+            "name_eng": "Dragon Hot Hold & Spin",
+            "name_kor": "드래곤 핫 Hold & Spin",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5drhs.png"
+        },
+        {
+            "code": "vs25aztecking",
+            "name_eng": "Aztec King",
+            "name_kor": "아즈텍 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25aztecking.png"
+        },
+        {
+            "code": "vs25bullfiesta",
+            "name_eng": "Bull Fiesta",
+            "name_kor": "불 피에스타",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25bullfiesta.png"
+        },
+        {
+            "code": "vs40spartaking",
+            "name_eng": "Spartan King",
+            "name_kor": "스파르탄 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40spartaking.png"
+        },
+        {
+            "code": "vs10chkchase",
+            "name_eng": "Chicken Chase",
+            "name_kor": "치킨 체이스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10chkchase.png"
+        },
+        {
+            "code": "vs243discolady",
+            "name_eng": "Disco Lady",
+            "name_kor": "디스코 레이디",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243discolady.png"
+        },
+        {
+            "code": "vs10tictac",
+            "name_eng": "Tic Tac Take",
+            "name_kor": "틱 탁 테이크",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10tictac.png"
+        },
+        {
+            "code": "vs20rainbowg",
+            "name_eng": "Rainbow Gold",
+            "name_kor": "레인보우 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20rainbowg.png"
+        },
+        {
+            "code": "vs10snakeladd",
+            "name_eng": "Snakes and Ladders Megadice",
+            "name_kor": "스네이크 앤 래더스 메가다이스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10snakeladd.png"
+        },
+        {
+            "code": "vs10returndead",
+            "name_eng": "Return of the Dead",
+            "name_kor": "리턴 오브더 데드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10returndead.png"
+        },
+        {
+            "code": "vs20terrorv",
+            "name_eng": "Cash Elevator",
+            "name_kor": "캐시 엘리베이터",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20terrorv.png"
+        },
+        {
+            "code": "vs10egyptcls",
+            "name_eng": "Ancient Egypt Classic",
+            "name_kor": "에이션트 이집트 Classic",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10egyptcls.png"
+        },
+        {
+            "code": "vs40pirate",
+            "name_eng": "Pirate Gold",
+            "name_kor": "파이러트 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40pirate.png"
+        },
+        {
+            "code": "vs10fruity2",
+            "name_eng": "Extra Juicy",
+            "name_kor": "엑스트라 쥬시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10fruity2.png"
+        },
+        {
+            "code": "vs10eyestorm",
+            "name_eng": "Eye of the Storm",
+            "name_kor": "아이 오프 스톰",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10eyestorm.png"
+        },
+        {
+            "code": "vs243mwarrior",
+            "name_eng": "Monkey Warrior",
+            "name_kor": "멍키 워리어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243mwarrior.png"
+        },
+        {
+            "code": "vs25mustang",
+            "name_eng": "Mustang Gold",
+            "name_kor": "무스탕 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25mustang.png"
+        },
+        {
+            "code": "vs25chilli",
+            "name_eng": "Chilli Heat",
+            "name_kor": "칠리 히트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25chilli.png"
+        },
+        {
+            "code": "vs5ultrab",
+            "name_eng": "Ultra Burn",
+            "name_kor": "울트라 번",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5ultrab.png"
+        },
+        {
+            "code": "vs243chargebull",
+            "name_eng": "Raging Bull",
+            "name_kor": "레이징 불",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243chargebull.png"
+        },
+        {
+            "code": "vs20eightdragons",
+            "name_eng": "8 Dragons",
+            "name_kor": "8 드래곤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20eightdragons.png"
+        },
+        {
+            "code": "vs1money",
+            "name_eng": "Money Money Money",
+            "name_kor": "머니 머니 머니",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1money.png"
+        },
+        {
+            "code": "vs25mmouse",
+            "name_eng": "Money Mouse",
+            "name_kor": "머니 마우스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25mmouse.png"
+        },
+        {
+            "code": "vs25rio",
+            "name_eng": "Heart of Rio",
+            "name_kor": "하트 오브 리오",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25rio.png"
+        },
+        {
+            "code": "vs75bronco",
+            "name_eng": "Bronco Spirit",
+            "name_kor": "브롱코 스피릿",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs75bronco.png"
+        },
+        {
+            "code": "vs20bermuda",
+            "name_eng": "Bermuda Riches",
+            "name_kor": "버뮤다 리치스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20bermuda.png"
+        },
+        {
+            "code": "vs40bigjuan",
+            "name_eng": "Big Juan",
+            "name_kor": "빅 후안",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40bigjuan.png"
+        },
+        {
+            "code": "vswayschilheat",
+            "name_eng": "Chilli Heat Megaways",
+            "name_kor": "칠리 히트 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayschilheat.png"
+        },
+        {
+            "code": "vs10bookazteck",
+            "name_eng": "Book of Aztec King",
+            "name_kor": "북 오브 아즈텍 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10bookazteck.png"
+        },
+        {
+            "code": "vs1024lionsd",
+            "name_eng": "5 Lions Dance",
+            "name_kor": "5 라이온 댄스 ",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1024lionsd.png"
+        },
+        {
+            "code": "vs576hokkwolf",
+            "name_eng": "Hokkaido Wolf",
+            "name_kor": "홋가이도 울프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs576hokkwolf.png"
+        },
+        {
+            "code": "vs75empress",
+            "name_eng": "Golden Beauty",
+            "name_kor": "골든 뷰티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs75empress.png"
+        },
+        {
+            "code": "vs1600drago",
+            "name_eng": "Drago - Jewels of Fortune",
+            "name_kor": "드라코 - 쥬얼스 오브 포츈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1600drago.png"
+        },
+        {
+            "code": "vs1fortunetree",
+            "name_eng": "Tree of Riches",
+            "name_kor": "트리 오브 리치",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1fortunetree.png"
+        },
+        {
+            "code": "vs10bblpop",
+            "name_eng": "Bubble Pop",
+            "name_kor": "버블 팝",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10bblpop.png"
+        },
+        {
+            "code": "vs25pyramid",
+            "name_eng": "Pyramid King",
+            "name_kor": "피라미드 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25pyramid.png"
+        },
+        {
+            "code": "vs20vegasmagic",
+            "name_eng": "Vegas Magic",
+            "name_kor": "베가스 매직",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20vegasmagic.png"
+        },
+        {
+            "code": "vs432congocash",
+            "name_eng": "Congo Cash",
+            "name_kor": "콩고 캐시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs432congocash.png"
+        },
+        {
+            "code": "vs20colcashzone",
+            "name_eng": "Colossal Cash Zone",
+            "name_kor": "콜로살 캐시 존",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20colcashzone.png"
+        },
+        {
+            "code": "vs243dancingpar",
+            "name_eng": "Dance Party",
+            "name_kor": "댄스 파티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243dancingpar.png"
+        },
+        {
+            "code": "vs25goldpig",
+            "name_eng": "Golden Pig",
+            "name_kor": "골든 피그",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25goldpig.png"
+        },
+        {
+            "code": "vs40wanderw",
+            "name_eng": "Wild Depths",
+            "name_kor": "와일드 뎁스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40wanderw.png"
+        },
+        {
+            "code": "vs243fortune",
+            "name_eng": "Caishen's Gold",
+            "name_kor": "카이센 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs243fortune.png"
+        },
+        {
+            "code": "vs9piggybank",
+            "name_eng": "Piggy Bank Bills",
+            "name_kor": "피기 뱅크 빌",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs9piggybank.png"
+        },
+        {
+            "code": "vs25wolfgold",
+            "name_eng": "Wolf Gold",
+            "name_kor": "와일드 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25wolfgold.png"
+        },
+        {
+            "code": "vs20wildboost",
+            "name_eng": "Wild Booster",
+            "name_kor": "와일드 부스터",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20wildboost.png"
+        },
+        {
+            "code": "vswayswerewolf",
+            "name_eng": "Curse of the Werewolf Megaways",
+            "name_kor": "커스 오브더 웨어울프 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayswerewolf.png"
+        },
+        {
+            "code": "vs25wildspells",
+            "name_eng": "Wild Spells",
+            "name_kor": "와일드 스펠",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25wildspells.png"
+        },
+        {
+            "code": "vs5super7",
+            "name_eng": "Super 7s ",
+            "name_kor": "슈퍼 7s",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5super7.png"
+        },
+        {
+            "code": "vs10bookoftut",
+            "name_eng": "Book of Tut",
+            "name_kor": "북 오브 툿",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10bookoftut.png"
+        },
+        {
+            "code": "vs10luckcharm",
+            "name_eng": "Lucky, Grace & Charm",
+            "name_kor": "럭키, 그레이스 & 챰",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10luckcharm.png"
+        },
+        {
+            "code": "vs40pirgold",
+            "name_eng": "Pirate Gold Deluxe",
+            "name_kor": "파이러트 골드 Deluxe",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40pirgold.png"
+        },
+        {
+            "code": "vs1tigers",
+            "name_eng": "Triple Tigers",
+            "name_kor": "프리플 타이거",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1tigers.png"
+        },
+        {
+            "code": "vs10wildtut",
+            "name_eng": "Mysterious Egypt",
+            "name_kor": "미스터리우스 이집트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10wildtut.png"
+        },
+        {
+            "code": "vs25newyear",
+            "name_eng": "Lucky New Year",
+            "name_kor": "럭키 뉴이어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25newyear.png"
+        },
+        {
+            "code": "vswayswest",
+            "name_eng": "Mystic Chief",
+            "name_kor": "미스틱 셰프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayswest.png"
+        },
+        {
+            "code": "vs25tigerwar",
+            "name_eng": "The Tiger Warrior",
+            "name_kor": "더 타이거 워리어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25tigerwar.png"
+        },
+        {
+            "code": "vs25bkofkngdm",
+            "name_eng": "Book Of Kingdoms",
+            "name_kor": "북 오브 킹덤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25bkofkngdm.png"
+        },
+        {
+            "code": "vs25peking",
+            "name_eng": "Peking Luck",
+            "name_kor": "패킹 럭",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25peking.png"
+        },
+        {
+            "code": "vs1024dtiger",
+            "name_eng": "The Dragon Tiger",
+            "name_kor": "더 드래곤 타이거",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1024dtiger.png"
+        },
+        {
+            "code": "vs20smugcove",
+            "name_eng": "Smugglers Cove",
+            "name_kor": "스무글러스 코브",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20smugcove.png"
+        },
+        {
+            "code": "vs25asgard",
+            "name_eng": "Asgard",
+            "name_kor": "애스가드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25asgard.png"
+        },
+        {
+            "code": "vs25goldrush",
+            "name_eng": "Gold Rush",
+            "name_kor": "골드 러시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25goldrush.png"
+        },
+        {
+            "code": "vs5spjoker",
+            "name_eng": "Super Joker",
+            "name_kor": "슈퍼 조커",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5spjoker.png"
+        },
+        {
+            "code": "vs1024butterfly",
+            "name_eng": "Jade Butterfly",
+            "name_kor": "제이드 버터플라이",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1024butterfly.png"
+        },
+        {
+            "code": "vs5hotburn",
+            "name_eng": "Hot to Burn",
+            "name_kor": "핫 투 번",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5hotburn.png"
+        },
+        {
+            "code": "vs10mayangods",
+            "name_eng": "John Hunter And The Mayan Gods",
+            "name_kor": "존 헌터 앤더 마얀 갓",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10mayangods.png"
+        },
+        {
+            "code": "vs10madame",
+            "name_eng": "Madame Destiny",
+            "name_kor": "마담 데스티니",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10madame.png"
+        },
+        {
+            "code": "vs20daydead",
+            "name_eng": "Day of Dead",
+            "name_kor": "데이 오브 데드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20daydead.png"
+        },
+        {
+            "code": "vs25samurai",
+            "name_eng": "Rise of Samurai",
+            "name_kor": "라이즈 오브 사무라이",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25samurai.png"
+        },
+        {
+            "code": "vs25vegas",
+            "name_eng": "Vegas Nights",
+            "name_kor": "베가스 나이트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25vegas.png"
+        },
+        {
+            "code": "vswayshive",
+            "name_eng": "Star Bounty",
+            "name_kor": "스타 바운티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswayshive.png"
+        },
+        {
+            "code": "vs25jokerking",
+            "name_eng": "Joker King",
+            "name_kor": "조커 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25jokerking.png"
+        },
+        {
+            "code": "vs1fufufu",
+            "name_eng": "Fu Fu Fu",
+            "name_kor": "푸 푸 푸",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1fufufu.png"
+        },
+        {
+            "code": "vs10threestar",
+            "name_eng": "Three Star Fortune",
+            "name_kor": "쓰리 스타 포츈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10threestar.png"
+        },
+        {
+            "code": "vs40voodoo",
+            "name_eng": "Voodoo Magic",
+            "name_kor": "부두 매직",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40voodoo.png"
+        },
+        {
+            "code": "vs25dragonkingdom",
+            "name_eng": "Dragon Kingdom",
+            "name_kor": "드래곤 킹덤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25dragonkingdom.png"
+        },
+        {
+            "code": "vs1ball",
+            "name_eng": "Lucky Dragon Ball",
+            "name_kor": "럭키 드래곤 볼",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs1ball.png"
+        },
+        {
+            "code": "vs25kingdoms",
+            "name_eng": "3 Kingdoms - Battle of Red Cliffs",
+            "name_kor": "3 킹덤 - 배틀 오브 레드 클리프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25kingdoms.png"
+        },
+        {
+            "code": "vs10goldfish",
+            "name_eng": "Fishin Reels",
+            "name_kor": "피싱 릴스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10goldfish.png"
+        },
+        {
+            "code": "vs20hercpeg",
+            "name_eng": "Hercules and Pegasus",
+            "name_kor": "헤라큘레스 엔드 페가수스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20hercpeg.png"
+        },
+        {
+            "code": "vs20egypttrs",
+            "name_eng": "Egyptian Fortunes",
+            "name_kor": "이집시안 포츈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20egypttrs.png"
+        },
+        {
+            "code": "vs50safariking",
+            "name_eng": "Safari King",
+            "name_kor": "사파리 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50safariking.png"
+        },
+        {
+            "code": "vs50pixie",
+            "name_eng": "Pixie Wings",
+            "name_kor": "픽시 윙스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50pixie.png"
+        },
+        {
+            "code": "vs20ekingrr",
+            "name_eng": "Emerald King Rainbow Road",
+            "name_kor": "에머랄드 킹 레인보우 로드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20ekingrr.png"
+        },
+        {
+            "code": "vs88hockattack",
+            "name_eng": "Hockey Attack",
+            "name_kor": "하키 어텍",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs88hockattack.png"
+        },
+        {
+            "code": "vswaysbankbonz",
+            "name_eng": "Cash Bonanza",
+            "name_kor": "캐시 보난자",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vswaysbankbonz.png"
+        },
+        {
+            "code": "vs20honey",
+            "name_eng": "Honey Honey Honey",
+            "name_kor": "허니 허니 허니",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20honey.png"
+        },
+        {
+            "code": "vs117649starz",
+            "name_eng": "Starz Megaways",
+            "name_kor": "스타즈 Megaways",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs117649starz.png"
+        },
+        {
+            "code": "vs20santa",
+            "name_eng": "Santa",
+            "name_kor": "산타",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20santa.png"
+        },
+        {
+            "code": "vs20wildpix",
+            "name_eng": "Wild Pixies",
+            "name_kor": "와일드 픽시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20wildpix.png"
+        },
+        {
+            "code": "vs18mashang",
+            "name_eng": "Treasure Horse",
+            "name_kor": "트래저 홀스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs18mashang.png"
+        },
+        {
+            "code": "vs9madmonkey",
+            "name_eng": "Monkey Madness",
+            "name_kor": "멍키 매드니스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs9madmonkey.png"
+        },
+        {
+            "code": "vs40madwheel",
+            "name_eng": "The Wild Machine",
+            "name_kor": "더 와일드 머신",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40madwheel.png"
+        },
+        {
+            "code": "vs20leprexmas",
+            "name_eng": "Leprechaun Carol",
+            "name_kor": "레프레치언 캐롤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20leprexmas.png"
+        },
+        {
+            "code": "vs9hotroll",
+            "name_eng": "Hot Chilli",
+            "name_kor": "핫 칠리",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs9hotroll.png"
+        },
+        {
+            "code": "vs20chicken",
+            "name_eng": "The Great Chicken Escape",
+            "name_kor": "더 그레이트 치킨 이스케이프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20chicken.png"
+        },
+        {
+            "code": "vs10starpirate",
+            "name_eng": "Star Pirates Code",
+            "name_kor": "스타 파이러츠 코드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10starpirate.png"
+        },
+        {
+            "code": "vs9chen",
+            "name_eng": "Master Chen's Fortune",
+            "name_kor": "마스터 첸스 포츈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs9chen.png"
+        },
+        {
+            "code": "vs20eking",
+            "name_eng": "Emerald King",
+            "name_kor": "에머랄드 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20eking.png"
+        },
+        {
+            "code": "vs50hercules",
+            "name_eng": "Hercules Son of Zeus",
+            "name_kor": "헤라큘레스 선 오브 제우스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50hercules.png"
+        },
+        {
+            "code": "vs25davinci",
+            "name_eng": "Da Vinci's Treasure",
+            "name_kor": "다빈치 트래져",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25davinci.png"
+        },
+        {
+            "code": "vs20magicpot",
+            "name_eng": "The Magic Cauldron",
+            "name_kor": "더 매직 컬드론",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20magicpot.png"
+        },
+        {
+            "code": "vs15fairytale",
+            "name_eng": "Fairytale Fortune",
+            "name_kor": "페어리테일 포튠",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs15fairytale.png"
+        },
+        {
+            "code": "vs25journey",
+            "name_eng": "Journey to the West",
+            "name_kor": "저니 투더 웨스트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25journey.png"
+        },
+        {
+            "code": "vs20godiva",
+            "name_eng": "Lady Godiva",
+            "name_kor": "레이디 고디바",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20godiva.png"
+        },
+        {
+            "code": "vs40frrainbow",
+            "name_eng": "Fruit Rainbow",
+            "name_kor": "프루트 레인보우",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40frrainbow.png"
+        },
+        {
+            "code": "vs5drmystery",
+            "name_eng": "Dragon Kingdom - Eyes of Fire",
+            "name_kor": "드래곤 킹덤 - 아이 오브 파이어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5drmystery.png"
+        },
+        {
+            "code": "vs50chinesecharms",
+            "name_eng": "Lucky Dragons",
+            "name_kor": "럭키 드래곤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50chinesecharms.png"
+        },
+        {
+            "code": "vs3train",
+            "name_eng": "Gold Train",
+            "name_kor": "골드 트레인",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs3train.png"
+        },
+        {
+            "code": "vs4096mystery",
+            "name_eng": "Mysterious",
+            "name_kor": "미스터리우스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs4096mystery.png"
+        },
+        {
+            "code": "vs25safari",
+            "name_eng": "Hot Safari",
+            "name_kor": "핫 사파리",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25safari.png"
+        },
+        {
+            "code": "vs7776secrets",
+            "name_eng": "Aztec Treasure",
+            "name_kor": "아즈텍 트래져",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs7776secrets.png"
+        },
+        {
+            "code": "vs25queenofgold",
+            "name_eng": "Queen of Gold",
+            "name_kor": "퀸 오브 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25queenofgold.png"
+        },
+        {
+            "code": "vs7pigs",
+            "name_eng": "7 Piggies",
+            "name_kor": "7 피기",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs7pigs.png"
+        },
+        {
+            "code": "vs25sea",
+            "name_eng": "Great Reef",
+            "name_kor": "그레이트 리프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25sea.png"
+        },
+        {
+            "code": "vs50aladdin",
+            "name_eng": "3 Genie Wishes",
+            "name_kor": "3 지니 위시",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50aladdin.png"
+        },
+        {
+            "code": "vs8magicjourn",
+            "name_eng": "Magic Journey",
+            "name_kor": "매직 저니",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs8magicjourn.png"
+        },
+        {
+            "code": "vs10vampwolf",
+            "name_eng": "Vampires vs Wolves",
+            "name_kor": "뱀파이어 vs 울프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10vampwolf.png"
+        },
+        {
+            "code": "vs25walker",
+            "name_eng": "Wild Walker",
+            "name_kor": "와일드 워커",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25walker.png"
+        },
+        {
+            "code": "vs50kingkong",
+            "name_eng": "Mighty Kong",
+            "name_kor": "마이티 콩",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs50kingkong.png"
+        },
+        {
+            "code": "vs40streetracer",
+            "name_eng": "Street Racer",
+            "name_kor": "스트리트 레이서",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs40streetracer.png"
+        },
+        {
+            "code": "vs5trdragons",
+            "name_eng": "Triple Dragons",
+            "name_kor": "트리플 드래곤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs5trdragons.png"
+        },
+        {
+            "code": "vs20leprechaun",
+            "name_eng": "Leprechaun Song",
+            "name_kor": "레프레치언 송",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20leprechaun.png"
+        },
+        {
+            "code": "vs20aladdinsorc",
+            "name_eng": "Aladdin and the Sorcerer",
+            "name_kor": "알라딘 앤 더 소서러",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20aladdinsorc.png"
+        },
+        {
+            "code": "vs25gladiator",
+            "name_eng": "Wild Gladiator",
+            "name_kor": "와일드 글래디에이터",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25gladiator.png"
+        },
+        {
+            "code": "vs20bl",
+            "name_eng": "Busy Bees",
+            "name_kor": "비지 비스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20bl.png"
+        },
+        {
+            "code": "vs10egypt",
+            "name_eng": "Ancient Egypt",
+            "name_kor": "에이션트 이집트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs10egypt.png"
+        },
+        {
+            "code": "vs20gorilla",
+            "name_eng": "Jungle Gorilla",
+            "name_kor": "정글 고릴라",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs20gorilla.png"
+        },
+        {
+            "code": "vs25dwarves_new",
+            "name_eng": "Dwarven Gold Deluxe",
+            "name_kor": "드월번 골드 Deluxe",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs25dwarves_new.png"
+        },
+        {
+            "code": "vs7monkeys",
+            "name_eng": "7 Monkeys",
+            "name_kor": "7 몽키",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs7monkeys.png"
+        },
+        {
+            "code": "vs13g",
+            "name_eng": "Devil's 13",
+            "name_kor": "데블스 13",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://api-sg13.ppgames.net/game_pic/rec/325/vs13g.png"
+        }
+    ]
+}

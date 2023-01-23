@@ -1,0 +1,1187 @@
+{
+    "result": 1,
+    "msg": "success",
+    "data": {
+        "list": [
+            {
+                "code": "EVP-aceround",
+                "name_eng": "Ace Round",
+                "name_kor": "에이스 라운드",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-aceround.jpg"
+            },
+            {
+                "code": "EVP-aeronauts",
+                "name_eng": "Aeronauts",
+                "name_kor": "에어로너츠",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-aeronauts.jpg"
+            },
+            {
+                "code": "EVP-animalquest",
+                "name_eng": "Animal Quest",
+                "name_kor": "애니멀 퀘스트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-animalquest.jpg"
+            },
+            {
+                "code": "EVP-anubismoon",
+                "name_eng": "Anubis Moon",
+                "name_kor": "어뉴비스 문",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-anubismoon.jpg"
+            },
+            {
+                "code": "EVP-atlantis",
+                "name_eng": "Atlantis",
+                "name_kor": "아클란티스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-atlantis.jpg"
+            },
+            {
+                "code": "EVP-basketball",
+                "name_eng": "Basketball",
+                "name_kor": "바스켓볼",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-basketball.jpg"
+            },
+            {
+                "code": "EVP-battletanks",
+                "name_eng": "Battle Tanks",
+                "name_kor": "배틀 탱크스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-battletanks.jpg"
+            },
+            {
+                "code": "EVP-bloodybrilliant",
+                "name_eng": "Bloody Brilliant",
+                "name_kor": "블러디 블릴리언트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-bloodybrilliant.jpg"
+            },
+            {
+                "code": "EVP-brutalsanta",
+                "name_eng": "Brutal Santa",
+                "name_kor": "브루털 산타",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-brutalsanta.jpg"
+            },
+            {
+                "code": "EVP-budaireels",
+                "name_eng": "Budai Reels",
+                "name_kor": "부다이 릴스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-budaireels.jpg"
+            },
+            {
+                "code": "EVP-budaireelsbonusbuy",
+                "name_eng": "Budai Reels Bonus Buy",
+                "name_kor": "부다이 릴스 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-budaireelsbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-burningaces",
+                "name_eng": "Burning Aces",
+                "name_kor": "버닝 에이시스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-burningaces.jpg"
+            },
+            {
+                "code": "EVP-candydreams",
+                "name_eng": "Candy Dreams",
+                "name_kor": "캔디 드림스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-candydreams.jpg"
+            },
+            {
+                "code": "EVP-charmingqueens",
+                "name_eng": "Charming Queens",
+                "name_kor": "챠밍 퀸즈",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-charmingqueens.jpg"
+            },
+            {
+                "code": "EVP-chinesenewyear",
+                "name_eng": "Chinese New Year",
+                "name_kor": "차이니즈 뉴 이어",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-chinesenewyear.jpg"
+            },
+            {
+                "code": "EVP-christmasreach",
+                "name_eng": "Christmas Reach",
+                "name_kor": "크리스마스 리치",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-christmasreach.jpg"
+            },
+            {
+                "code": "EVP-christmasreachbonusbuy",
+                "name_eng": "Christmas Reach Bonus Buy",
+                "name_kor": "크리스마스 리치 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-christmasreachbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-clashofpirates",
+                "name_eng": "Clash of Pirates",
+                "name_kor": "클래시 오브 파이럿스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-clashofpirates.jpg"
+            },
+            {
+                "code": "EVP-curseofpharaoh",
+                "name_eng": "Curse of Pharaoh",
+                "name_kor": "컬스 오브더 파라오",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-curseofpharaoh.jpg"
+            },
+            {
+                "code": "EVP-curseofthepharaohbonusbuy",
+                "name_eng": "Curse of the Pharaoh Bonus Buy",
+                "name_kor": "컬스 오브더 파라오 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-curseofthepharaohbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-cycleofluck",
+                "name_eng": "Cycle of Luck",
+                "name_kor": "서클 오브 럭",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-cycleofluck.jpg"
+            },
+            {
+                "code": "EVP-cycleofluckbonusbuy",
+                "name_eng": "Cycle of Luck Bonus Buy",
+                "name_kor": "사이클 오브 럭 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-cycleofluckbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-dolphinstreasure",
+                "name_eng": "Dolphin's Treasure",
+                "name_kor": "돌핀스 트래져",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-dolphinstreasure.jpg"
+            },
+            {
+                "code": "EVP-dragontavernbonusbuy",
+                "name_eng": "Dragon Tavern Bonus Buy",
+                "name_kor": "드래곤 테이번 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-dragontavernbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-dragonstavern",
+                "name_eng": "Dragon’s Tavern",
+                "name_kor": "드래곤스 테이번",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-dragonstavern.jpg"
+            },
+            {
+                "code": "EVP-etlostsocks",
+                "name_eng": "E.T. Lost Socks",
+                "name_kor": "E.T 로스트 삭스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-etlostsocks.jpg"
+            },
+            {
+                "code": "EVP-egyptgods",
+                "name_eng": "Egypt Gods",
+                "name_kor": "이집트 갓스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-egyptgods.jpg"
+            },
+            {
+                "code": "EVP-ellensfortune",
+                "name_eng": "Ellen’s Fortune",
+                "name_kor": "엘렌스 포츈",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-ellensfortune.jpg"
+            },
+            {
+                "code": "EVP-elvenprincesses",
+                "name_eng": "Elven Princesses",
+                "name_kor": "엘빈 프린세스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-elvenprincesses.jpg"
+            },
+            {
+                "code": "EVP-epicgladiators",
+                "name_eng": "Epic Gladiators",
+                "name_kor": "에픽 글라디에이터스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-epicgladiators.jpg"
+            },
+            {
+                "code": "EVP-epiclegends",
+                "name_eng": "Epic Legends",
+                "name_kor": "에픽 레전드",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-epiclegends.jpg"
+            },
+            {
+                "code": "EVP-explodingfruits",
+                "name_eng": "Exploding Fruits",
+                "name_kor": "익스플로딩 프루츠",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-explodingfruits.jpg"
+            },
+            {
+                "code": "EVP-fluffyrangers",
+                "name_eng": "Fluffy Rangers",
+                "name_kor": "플러피 레인저스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fluffyrangers.jpg"
+            },
+            {
+                "code": "EVP-foodfeast",
+                "name_eng": "Food Feast",
+                "name_kor": "푸드 피스트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-foodfeast.jpg"
+            },
+            {
+                "code": "EVP-football",
+                "name_eng": "Football",
+                "name_kor": "풋볼",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-football.jpg"
+            },
+            {
+                "code": "EVP-forestdreams",
+                "name_eng": "Forest Dreams",
+                "name_kor": "포레스트 드림스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-forestdreams.jpg"
+            },
+            {
+                "code": "EVP-forgottenfable",
+                "name_eng": "Forgotten Fable",
+                "name_kor": "포가튼 페이블",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-forgottenfable.jpg"
+            },
+            {
+                "code": "EVP-fruitburst",
+                "name_eng": "Fruit Burst",
+                "name_kor": "프루트 버스트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitburst.jpg"
+            },
+            {
+                "code": "EVP-fruitdisco",
+                "name_eng": "Fruit Disco",
+                "name_kor": "프루트 디스코",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitdisco.jpg"
+            },
+            {
+                "code": "EVP-fruitnova",
+                "name_eng": "Fruit Nova",
+                "name_kor": "프루트 노바",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitnova.jpg"
+            },
+            {
+                "code": "EVP-fruitsupernova",
+                "name_eng": "Fruit Super Nova",
+                "name_kor": "프루트 슈퍼노바",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitsupernova.jpg"
+            },
+            {
+                "code": "EVP-fruitsupernova100",
+                "name_eng": "Fruit Super Nova 100",
+                "name_kor": "프루트 슈퍼노바 100",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitsupernova100.jpg"
+            },
+            {
+                "code": "EVP-fruitsupernova40",
+                "name_eng": "Fruit Super Nova 40",
+                "name_kor": "프루트 슈퍼노바 40",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitsupernova40.jpg"
+            },
+            {
+                "code": "EVP-fruitsupernova60",
+                "name_eng": "Fruit Super Nova 60",
+                "name_kor": "프루트 슈퍼노바 60",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitsupernova60.jpg"
+            },
+            {
+                "code": "EVP-fruitsupernova80",
+                "name_eng": "Fruit Super Nova 80",
+                "name_kor": "프루트 슈퍼노바 80",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitsupernova80.jpg"
+            },
+            {
+                "code": "EVP-fruitsupernova30",
+                "name_eng": "Fruit super Nova 30",
+                "name_kor": "프루트 슈퍼노바 30",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitsupernova30.jpg"
+            },
+            {
+                "code": "EVP-fruitsland",
+                "name_eng": "Fruits Land",
+                "name_kor": "프루츠 랜드",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-fruitsland.jpg"
+            },
+            {
+                "code": "EVP-gangsternight",
+                "name_eng": "Gangster Night",
+                "name_kor": "갱스터 나이트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-gangsternight.jpg"
+            },
+            {
+                "code": "EVP-goldofsirens",
+                "name_eng": "Gold of Sirens",
+                "name_kor": "골드 오브 사이렌스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-goldofsirens.jpg"
+            },
+            {
+                "code": "EVP-greatwall",
+                "name_eng": "Great Wall",
+                "name_kor": "그레이트 월",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-greatwall.jpg"
+            },
+            {
+                "code": "EVP-hottriplesevens",
+                "name_eng": "Hot Triple Sevens",
+                "name_kor": "핫 트리플 세븐스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-hottriplesevens.jpg"
+            },
+            {
+                "code": "EVP-hottriplesevensspecial",
+                "name_eng": "Hot Triple Sevens Special",
+                "name_kor": "핫 트리플 세븐스 스페셜",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-hottriplesevensspecial.jpg"
+            },
+            {
+                "code": "EVP-hungrynight",
+                "name_eng": "Hungry Night",
+                "name_kor": "헝그리 나이트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-hungrynight.jpg"
+            },
+            {
+                "code": "EVP-icemania",
+                "name_eng": "Ice Mania",
+                "name_kor": "아이스 매니아",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-icemania.jpg"
+            },
+            {
+                "code": "EVP-indianasquest",
+                "name_eng": "Indiana's Quest",
+                "name_kor": "인디아나스 퀘스트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-indianasquest.jpg"
+            },
+            {
+                "code": "EVP-irishreels",
+                "name_eng": "Irish Reels",
+                "name_kor": "아이리시 릴스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-irishreels.jpg"
+            },
+            {
+                "code": "EVP-jellyboom",
+                "name_eng": "Jelly Boom",
+                "name_kor": "젤리 품",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-jellyboom.jpg"
+            },
+            {
+                "code": "EVP-jewellerystore",
+                "name_eng": "Jewellery Store",
+                "name_kor": "쥬얼리 스토어",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-jewellerystore.jpg"
+            },
+            {
+                "code": "EVP-jollytreasures",
+                "name_eng": "Jolly Treasures",
+                "name_kor": "졸리 트래져스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-jollytreasures.jpg"
+            },
+            {
+                "code": "EVP-journeytothewest",
+                "name_eng": "Journey to The West",
+                "name_kor": "저니 투더 웨스트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-journeytothewest.jpg"
+            },
+            {
+                "code": "EVP-juicygems",
+                "name_eng": "Juicy Gems",
+                "name_kor": "쥬시 젬",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-juicygems.jpg"
+            },
+            {
+                "code": "EVP-legendofkaan",
+                "name_eng": "Legend of Kaan",
+                "name_kor": "레전드 오브 칸",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-legendofkaan.jpg"
+            },
+            {
+                "code": "EVP-legendofra",
+                "name_eng": "Legend of Ra",
+                "name_kor": "레전드 오브 라",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-legendofra.jpg"
+            },
+            {
+                "code": "EVP-luckygirls",
+                "name_eng": "Lucky Girls",
+                "name_kor": "럭키 걸스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-luckygirls.jpg"
+            },
+            {
+                "code": "EVP-mazedesireforpower",
+                "name_eng": "Maze: Desire for Power",
+                "name_kor": "메이즈: 디자이어 포 파워",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-mazedesireforpower.jpg"
+            },
+            {
+                "code": "EVP-midnightshow",
+                "name_eng": "Midnight Show",
+                "name_kor": "미드나이트 쇼",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-midnightshow.jpg"
+            },
+            {
+                "code": "EVP-monsterlab",
+                "name_eng": "Monster Lab",
+                "name_kor": "몬스터 랩",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-monsterlab.jpg"
+            },
+            {
+                "code": "EVP-mysteryplanet",
+                "name_eng": "Mystery Planet",
+                "name_kor": "미스터리 플레닛",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-mysteryplanet.jpg"
+            },
+            {
+                "code": "EVP-naughtygirlscabaret",
+                "name_eng": "Naughty Girls Cabaret",
+                "name_kor": "너티 걸스 캬바레",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-naughtygirlscabaret.jpg"
+            },
+            {
+                "code": "EVP-necromancer",
+                "name_eng": "Necromancer",
+                "name_kor": "네트로맨서",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-necromancer.jpg"
+            },
+            {
+                "code": "EVP-nightofthelivingtales",
+                "name_eng": "Night of the Living Tales",
+                "name_kor": "나이트 오브더 리빙 테일스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-nightofthelivingtales.jpg"
+            },
+            {
+                "code": "EVP-nukeworld",
+                "name_eng": "Nuke World",
+                "name_kor": "뉴크 월드",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-nukeworld.jpg"
+            },
+            {
+                "code": "EVP-pachingirl",
+                "name_eng": "Pachin Girl",
+                "name_kor": "파친 걸",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-pachingirl.jpg"
+            },
+            {
+                "code": "EVP-prohibition",
+                "name_eng": "Prohibition",
+                "name_kor": "프로히비젼",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-prohibition.jpg"
+            },
+            {
+                "code": "EVP-raccoontales",
+                "name_eng": "Raccoon Tales",
+                "name_kor": "라큰 테일스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-raccoontales.jpg"
+            },
+            {
+                "code": "EVP-redcliff",
+                "name_eng": "Red Cliff",
+                "name_kor": "레드 클리프",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-redcliff.jpg"
+            },
+            {
+                "code": "EVP-reignofdragons",
+                "name_eng": "Reign of Dragons",
+                "name_kor": "레인 오드 드래곤스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-reignofdragons.jpg"
+            },
+            {
+                "code": "EVP-richreels",
+                "name_eng": "Rich Reels",
+                "name_kor": "리치 릴스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-richreels.jpg"
+            },
+            {
+                "code": "EVP-riseofhorus",
+                "name_eng": "Rise of Horus",
+                "name_kor": "라이즈 오브 호러스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-riseofhorus.jpg"
+            },
+            {
+                "code": "EVP-robinhood",
+                "name_eng": "Robin Hood",
+                "name_kor": "로빈 후드",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-robinhood.jpg"
+            },
+            {
+                "code": "EVP-robinson",
+                "name_eng": "Robinson",
+                "name_kor": "로빈슨",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-robinson.jpg"
+            },
+            {
+                "code": "EVP-robotsenergyconflict",
+                "name_eng": "Robots: Energy Conflict",
+                "name_kor": "로보츠: 에너지 컨플릭트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-robotsenergyconflict.jpg"
+            },
+            {
+                "code": "EVP-rocketstars",
+                "name_eng": "Rocket Stars",
+                "name_kor": "로켓 스타스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-rocketstars.jpg"
+            },
+            {
+                "code": "EVP-runesofdestiny",
+                "name_eng": "Runes of Destiny",
+                "name_kor": "룬스 오브 디스터니",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-runesofdestiny.jpg"
+            },
+            {
+                "code": "EVP-seaofspins",
+                "name_eng": "Sea of Spins",
+                "name_kor": "씨 오브 스핀스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-seaofspins.jpg"
+            },
+            {
+                "code": "EVP-seasonsisters",
+                "name_eng": "Season Sisters",
+                "name_kor": "시즌 시스터스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-seasonsisters.jpg"
+            },
+            {
+                "code": "EVP-shadowofluxor",
+                "name_eng": "Shadow of Luxor",
+                "name_kor": "셰도우 오브 룩소르",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-shadowofluxor.jpg"
+            },
+            {
+                "code": "EVP-sprinkle",
+                "name_eng": "Sprinkle",
+                "name_kor": "스프린클",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-sprinkle.jpg"
+            },
+            {
+                "code": "EVP-surfzone",
+                "name_eng": "Surf Zone",
+                "name_kor": "서프 존",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-surfzone.jpg"
+            },
+            {
+                "code": "EVP-sweetsugar",
+                "name_eng": "Sweet Sugar",
+                "name_kor": "스위트 슈가",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-sweetsugar.jpg"
+            },
+            {
+                "code": "EVP-syndicate",
+                "name_eng": "Syndicate",
+                "name_kor": "신디케이트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-syndicate.jpg"
+            },
+            {
+                "code": "EVP-talismansoffortune",
+                "name_eng": "Talismans of Fortune",
+                "name_kor": "탈리스맨스 오브 포츈",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-talismansoffortune.jpg"
+            },
+            {
+                "code": "EVP-templeofdead",
+                "name_eng": "Temple of Dead",
+                "name_kor": "템플 오브 데드",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-templeofdead.jpg"
+            },
+            {
+                "code": "EVP-templeofdeadbonusbuy",
+                "name_eng": "Temple of Dead Bonus Buy",
+                "name_kor": "템플 오브 데드  Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-templeofdeadbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-templeofthunder",
+                "name_eng": "Temple of Thunder",
+                "name_kor": "템플 오브 썬더",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-templeofthunder.jpg"
+            },
+            {
+                "code": "EVP-theemperorstomb",
+                "name_eng": "The Emperor's Tomb",
+                "name_kor": "더 엠퍼러스 톰",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-theemperorstomb.jpg"
+            },
+            {
+                "code": "EVP-thegreatconflict",
+                "name_eng": "The Great Conflict",
+                "name_kor": "더 그레이트 컨플릭트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-thegreatconflict.jpg"
+            },
+            {
+                "code": "EVP-thegreatestcatch",
+                "name_eng": "The Greatest Catch",
+                "name_kor": "더 그레이티스트 캐치",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-thegreatestcatch.jpg"
+            },
+            {
+                "code": "EVP-thegreatestcatchbonusbuy",
+                "name_eng": "The Greatest Catch Bonus Buy",
+                "name_kor": "더 그레이티스트 캐치 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-thegreatestcatchbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-theslavs",
+                "name_eng": "The Slavs",
+                "name_kor": "더 슬라브스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-theslavs.jpg"
+            },
+            {
+                "code": "EVP-totemisland",
+                "name_eng": "Totem Island",
+                "name_kor": "토템 아일랜드",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-totemisland.jpg"
+            },
+            {
+                "code": "EVP-treasuremania",
+                "name_eng": "Treasure Mania",
+                "name_kor": "트래져 매니아",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-treasuremania.jpg"
+            },
+            {
+                "code": "EVP-treeoflight",
+                "name_eng": "Tree of Light",
+                "name_kor": "트리 오브 라이트",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-treeoflight.jpg"
+            },
+            {
+                "code": "EVP-triptothefuture",
+                "name_eng": "Trip To The Future",
+                "name_kor": "트립 투더 퓨쳐",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-triptothefuture.jpg"
+            },
+            {
+                "code": "EVP-triplechili",
+                "name_eng": "Triple Chili",
+                "name_kor": "트리플 칠리",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-triplechili.jpg"
+            },
+            {
+                "code": "EVP-ussrseventies",
+                "name_eng": "USSR Seventies",
+                "name_kor": "USSR 세븐티스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-ussrseventies.jpg"
+            },
+            {
+                "code": "EVP-unlimitedwishes",
+                "name_eng": "Unlimited Wishes",
+                "name_kor": "언리미티드 위시스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-unlimitedwishes.jpg"
+            },
+            {
+                "code": "EVP-valleyofdreams",
+                "name_eng": "Valley of Dreams",
+                "name_kor": "밸리 오브 드림스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-valleyofdreams.jpg"
+            },
+            {
+                "code": "EVP-vegasnights",
+                "name_eng": "Vegas Nights",
+                "name_kor": "베가스 나이츠",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-vegasnights.jpg"
+            },
+            {
+                "code": "EVP-westernreels",
+                "name_eng": "Western Reels",
+                "name_kor": "웨스턴 릴스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-westernreels.jpg"
+            },
+            {
+                "code": "EVP-wildbullets",
+                "name_eng": "Wild Bullets",
+                "name_kor": "와일드 불렛츠",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-wildbullets.jpg"
+            },
+            {
+                "code": "EVP-wildoverlords",
+                "name_eng": "Wild Overlords",
+                "name_kor": "와일드 오버로즈",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-wildoverlords.jpg"
+            },
+            {
+                "code": "EVP-wildoverlordsbonusbuy",
+                "name_eng": "Wild Overlords Bonus Buy",
+                "name_kor": "와일드 오버로즈 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-wildoverlordsbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-candydreamssweetplanet",
+                "name_eng": "Candy Dreams: Sweet Planet",
+                "name_kor": "캔디 드림스: 스위트 플래닛",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-candydreamssweetplanet.jpg"
+            },
+            {
+                "code": "EVP-juicygemsbonusbuy",
+                "name_eng": "Juicy Gems Вonus Buy",
+                "name_kor": "쥬시 젬스 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-juicygemsbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-caminodechili",
+                "name_eng": "Camino de Chili",
+                "name_kor": "까미노 데 칠리",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-caminodechili.jpg"
+            },
+            {
+                "code": "EVP-moneyminter",
+                "name_eng": "Money Minter",
+                "name_kor": "머니 마인터",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-moneyminter.jpg"
+            },
+            {
+                "code": "EVP-treeoflightbonusbuy",
+                "name_eng": "Tree of Light Bonus Buy",
+                "name_kor": "트리 오브 라이트 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-treeoflightbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-blessedflames",
+                "name_eng": "Blessed Flames",
+                "name_kor": "블레스드 플레임스",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-blessedflames.jpg"
+            },
+            {
+                "code": "EVP-caminodechilibonusbuy",
+                "name_eng": "Camino de Chili Bonus Buy",
+                "name_kor": "까미노 데 칠리 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-caminodechilibonusbuy.jpg"
+            },
+            {
+                "code": "EVP-candydreamssweetplanetbonusbuy",
+                "name_eng": "Candy Dreams: Sweet Planet Bonus Buy",
+                "name_kor": "캔디 드림스 : 스위트 플래닛 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-candydreamssweetplanetbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-hotvolcano",
+                "name_eng": "Hot Volcano",
+                "name_kor": "핫 볼케이노",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-hotvolcano.jpg"
+            },
+            {
+                "code": "EVP-massiveluck",
+                "name_eng": "Massive Luck",
+                "name_kor": "매시브 럭",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-massiveluck.jpg"
+            },
+            {
+                "code": "EVP-megagreatestcatch",
+                "name_eng": "Mega Greatest Catch",
+                "name_kor": "메가 그레이티스트 캐취",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-megagreatestcatch.jpg"
+            },
+            {
+                "code": "EVP-moneyminterbonusbuy",
+                "name_eng": "Money Minter Bonus Buy",
+                "name_kor": "머니 마인터 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-moneyminterbonusbuy.jpg"
+            },
+            {
+                "code": "EVP-redrosesanctuary",
+                "name_eng": "Redrose Sanctuary",
+                "name_kor": "레드로즈 생튜어리",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-redrosesanctuary.jpg"
+            },
+            {
+                "code": "EVP-ruedadechile",
+                "name_eng": "Rueda de Chile",
+                "name_kor": "루에다 데 칠레",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-ruedadechile.jpg"
+            },
+            {
+                "code": "EVP-wolfhiding",
+                "name_eng": "Wolf Hiding",
+                "name_kor": "울프 하이딩",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-wolfhiding.jpg"
+            },
+            {
+                "code": "EVP-collapsedcastle",
+                "name_eng": "Collapsed Castle",
+                "name_kor": "콜랩스드 캐슬",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-collapsedcastle.jpg"
+            },
+            {
+                "code": "EVP-hotvolcanobonusbuy",
+                "name_eng": "Hot Volcano Bonus Buy",
+                "name_kor": "핫 볼케이노 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-hotvolcanobonusbuy.jpg"
+            },
+            {
+                "code": "EVP-wolfhidingbonusbuy",
+                "name_eng": "Wolf Hiding Bonus Buy",
+                "name_kor": "울프 하이딩 Bonus Buy",
+                "type": "slot",
+                "is_desktop": 1,
+                "is_mobile": 1,
+                "img_1": "https://vedaimg.enjoycx.com/img/game/moa/EVP/EVP-wolfhidingbonusbuy.jpg"
+            }
+        ]
+    }
+}

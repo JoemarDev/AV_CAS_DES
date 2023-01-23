@@ -1,0 +1,1606 @@
+{
+    "list": [
+        {
+            "code": "125",
+            "name_eng": "Zeus M",
+            "name_kor": "제우스 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/125.jpg"
+        },
+        {
+            "code": "67",
+            "name_eng": "Golden Eggs",
+            "name_kor": "골든 에그",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/67.jpg"
+        },
+        {
+            "code": "161",
+            "name_eng": "Hercules",
+            "name_kor": "Hercules",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/161.jpg"
+        },
+        {
+            "code": "131",
+            "name_eng": "Fa Cai Shen M",
+            "name_kor": "재물신 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/131.jpg"
+        },
+        {
+            "code": "16",
+            "name_eng": "Super5",
+            "name_kor": "오행",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/16.jpg"
+        },
+        {
+            "code": "72",
+            "name_eng": "Happy Rich Year",
+            "name_kor": "해피 리치 이어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/72.jpg"
+        },
+        {
+            "code": "1",
+            "name_eng": "Fruit King",
+            "name_kor": "후르츠 킹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/1.jpg"
+        },
+        {
+            "code": "201",
+            "name_eng": "MuayThai",
+            "name_kor": "무에타이",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/201.jpg"
+        },
+        {
+            "code": "142",
+            "name_eng": "Hephaestus",
+            "name_kor": "헤파이토스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/142.jpg"
+        },
+        {
+            "code": "143",
+            "name_eng": "Fa Cai Fu Wa",
+            "name_kor": "파 카이 푸 와",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/143.jpg"
+        },
+        {
+            "code": "163",
+            "name_eng": "Ne Zha Advent",
+            "name_kor": "네 챠 어드벤트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/163.jpg"
+        },
+        {
+            "code": "33",
+            "name_eng": "Fire Chibi",
+            "name_kor": "파이어 치비",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/33.jpg"
+        },
+        {
+            "code": "150",
+            "name_eng": "Shou-Xin",
+            "name_kor": "Shou-Xin",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/150.jpg"
+        },
+        {
+            "code": "26",
+            "name_eng": "777",
+            "name_kor": "777",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/26.jpg"
+        },
+        {
+            "code": "52",
+            "name_eng": "Jump High",
+            "name_kor": "점프 하이",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/52.jpg"
+        },
+        {
+            "code": "7",
+            "name_eng": "Rave Jump",
+            "name_kor": "레이브 점프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/7.jpg"
+        },
+        {
+            "code": "99",
+            "name_eng": "Jump Higher",
+            "name_kor": "점프 하이어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/99.jpg"
+        },
+        {
+            "code": "179",
+            "name_eng": "Jump High 2",
+            "name_kor": "점프 하이 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/179.jpg"
+        },
+        {
+            "code": "10",
+            "name_eng": "Lucky Bats",
+            "name_kor": "럭키 뱃",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/10.jpg"
+        },
+        {
+            "code": "111",
+            "name_eng": "Fly Out",
+            "name_kor": "플라이 아웃",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/111.jpg"
+        },
+        {
+            "code": "50",
+            "name_eng": "Good Fortune",
+            "name_kor": "굿 포춘",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/50.jpg"
+        },
+        {
+            "code": "31",
+            "name_eng": "God of War",
+            "name_kor": "갓 오브 워",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/31.jpg"
+        },
+        {
+            "code": "64",
+            "name_eng": "Zeus",
+            "name_kor": "제우스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/64.jpg"
+        },
+        {
+            "code": "205",
+            "name_eng": "DiscoNight",
+            "name_kor": "디스코 나이트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/205.jpg"
+        },
+        {
+            "code": "138",
+            "name_eng": "Move n' Jump",
+            "name_kor": "움직이고 점프하기",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/138.jpg"
+        },
+        {
+            "code": "137",
+            "name_eng": "Disco Night M",
+            "name_kor": "디스코 나이트 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/137.jpg"
+        },
+        {
+            "code": "105",
+            "name_eng": "Jumping Mobile",
+            "name_kor": "점핑 모바일",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/105.jpg"
+        },
+        {
+            "code": "69",
+            "name_eng": "Fa Cai Shen",
+            "name_kor": "재물신",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/69.jpg"
+        },
+        {
+            "code": "89",
+            "name_eng": "Thor",
+            "name_kor": "토르",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/89.jpg"
+        },
+        {
+            "code": "24",
+            "name_eng": "Rave Jump2",
+            "name_kor": "레이브 점프 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/24.jpg"
+        },
+        {
+            "code": "123",
+            "name_eng": "Lucky Bats M",
+            "name_kor": "럭키 뱃 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/123.jpg"
+        },
+        {
+            "code": "136",
+            "name_eng": "Running Animals",
+            "name_kor": "러닝 애니몰",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/136.jpg"
+        },
+        {
+            "code": "46",
+            "name_eng": "Wolf Moon",
+            "name_kor": "울프 문",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/46.jpg"
+        },
+        {
+            "code": "202",
+            "name_eng": "OrientalBeauty",
+            "name_kor": "오리엔탈 뷰티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/202.jpg"
+        },
+        {
+            "code": "54",
+            "name_eng": "Funny Alpaca",
+            "name_kor": "퍼니 알파카",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/54.jpg"
+        },
+        {
+            "code": "157",
+            "name_eng": "5 Boxing",
+            "name_kor": "5 복싱",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/157.jpg"
+        },
+        {
+            "code": "3",
+            "name_eng": "Vampire Kiss",
+            "name_kor": "뱀파이어 키스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/3.jpg"
+        },
+        {
+            "code": "78",
+            "name_eng": "Apollo",
+            "name_kor": "아폴로",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/78.jpg"
+        },
+        {
+            "code": "139",
+            "name_eng": "Fire Chibi M",
+            "name_kor": "파이어 치비 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/139.jpg"
+        },
+        {
+            "code": "15",
+            "name_eng": "GuGuGu",
+            "name_kor": "GuGuGu",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/15.jpg"
+        },
+        {
+            "code": "117",
+            "name_eng": "5 God beasts",
+            "name_kor": "5 갓 비스트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/117.jpg"
+        },
+        {
+            "code": "140",
+            "name_eng": "Fire Chibi 2",
+            "name_kor": "파이어 치비 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/140.jpg"
+        },
+        {
+            "code": "115",
+            "name_eng": "Snow Queen",
+            "name_kor": "스노우 퀸",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/115.jpg"
+        },
+        {
+            "code": "127",
+            "name_eng": "God of War M",
+            "name_kor": "갓 오브 워 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/127.jpg"
+        },
+        {
+            "code": "29",
+            "name_eng": "WaterWorld",
+            "name_kor": "워터월드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/29.jpg"
+        },
+        {
+            "code": "79",
+            "name_eng": "Chameleon",
+            "name_kor": "카멜레온",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/79.jpg"
+        },
+        {
+            "code": "8",
+            "name_eng": "So Sweet",
+            "name_kor": "소 스위트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/8.jpg"
+        },
+        {
+            "code": "147",
+            "name_eng": "Flower Fortunes",
+            "name_kor": "플라워 포츈스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/147.jpg"
+        },
+        {
+            "code": "203",
+            "name_eng": "RaveHigh",
+            "name_kor": "레이브 하이",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/203.jpg"
+        },
+        {
+            "code": "113",
+            "name_eng": "Flying Cai Shen",
+            "name_kor": "플라잉 재물신",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/113.jpg"
+        },
+        {
+            "code": "58",
+            "name_eng": "Gu Gu Gu 2",
+            "name_kor": "Gu Gu Gu 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/58.jpg"
+        },
+        {
+            "code": "109",
+            "name_eng": "Rave Jump Mobile",
+            "name_kor": "레이브 점프 모바일",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/109.jpg"
+        },
+        {
+            "code": "173",
+            "name_eng": "6 Toros",
+            "name_kor": "6 토로스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/173.jpg"
+        },
+        {
+            "code": "128",
+            "name_eng": "Wheel Money",
+            "name_kor": "휠 머니",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/128.jpg"
+        },
+        {
+            "code": "154",
+            "name_eng": "Kronos",
+            "name_kor": "Kronos",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/154.jpg"
+        },
+        {
+            "code": "116",
+            "name_eng": "Wonderland",
+            "name_kor": "이상한 나라",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/116.jpg"
+        },
+        {
+            "code": "152",
+            "name_eng": "Double Fly",
+            "name_kor": "Double Fly",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/152.jpg"
+        },
+        {
+            "code": "108",
+            "name_eng": "Jump Higher Mobile",
+            "name_kor": "점프 하이어 모바일",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/108.jpg"
+        },
+        {
+            "code": "74",
+            "name_eng": "Treasure Bowl",
+            "name_kor": "트레저 보울",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/74.jpg"
+        },
+        {
+            "code": "5",
+            "name_eng": "Mr. Rich",
+            "name_kor": "미스터 리치",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/5.jpg"
+        },
+        {
+            "code": "180",
+            "name_eng": "Gu Gu Gu 3",
+            "name_kor": "Gu Gu Gu 3",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/180.jpg"
+        },
+        {
+            "code": "121",
+            "name_eng": "Rave Jump 2 M",
+            "name_kor": "레이브 점프 2 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/121.jpg"
+        },
+        {
+            "code": "118",
+            "name_eng": "SkrSkr",
+            "name_kor": "SkrSkr",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/118.jpg"
+        },
+        {
+            "code": "148",
+            "name_eng": "Fortune Totem",
+            "name_kor": "포츈 토템",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/148.jpg"
+        },
+        {
+            "code": "144",
+            "name_eng": "Diamond Treasure",
+            "name_kor": "다이아몬드 트레져",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/144.jpg"
+        },
+        {
+            "code": "39",
+            "name_eng": "Apsaras",
+            "name_kor": "압사라스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/39.jpg"
+        },
+        {
+            "code": "68",
+            "name_eng": "Wukong & Peaches",
+            "name_kor": "우공과 피치",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/68.jpg"
+        },
+        {
+            "code": "4",
+            "name_eng": "Wild Tarzan",
+            "name_kor": "와일드 타잔",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/4.jpg"
+        },
+        {
+            "code": "55",
+            "name_eng": "Dragon Heart",
+            "name_kor": "드래곤 하트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/55.jpg"
+        },
+        {
+            "code": "124",
+            "name_eng": "Invincible Elephant",
+            "name_kor": "인빈서블 엘리펀트",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/124.jpg"
+        },
+        {
+            "code": "23",
+            "name_eng": "Yuan Bao",
+            "name_kor": "금원보",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/23.jpg"
+        },
+        {
+            "code": "19",
+            "name_eng": "Hot Spin",
+            "name_kor": "핫 스핀",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/19.jpg"
+        },
+        {
+            "code": "112",
+            "name_eng": "Pyramid Raider",
+            "name_kor": "피라미드 라이더",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/112.jpg"
+        },
+        {
+            "code": "12",
+            "name_eng": "Treasure House",
+            "name_kor": "트래져 하우스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/12.jpg"
+        },
+        {
+            "code": "183",
+            "name_eng": "Wolf Disco",
+            "name_kor": "늑대 디스코",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/183.jpg"
+        },
+        {
+            "code": "83",
+            "name_eng": "Fire Queen",
+            "name_kor": "파이어 퀸",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/83.jpg"
+        },
+        {
+            "code": "153",
+            "name_eng": "Six Candy",
+            "name_kor": "식스 캔디",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/153.jpg"
+        },
+        {
+            "code": "133",
+            "name_eng": "Good Fortune M",
+            "name_kor": "굿 포츈 M",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/133.jpg"
+        },
+        {
+            "code": "9",
+            "name_eng": "Zhong Kui",
+            "name_kor": "종규",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/9.jpg"
+        },
+        {
+            "code": "160",
+            "name_eng": "Fa Cai Shen2",
+            "name_kor": "파 카이 셴2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/160.jpg"
+        },
+        {
+            "code": "132",
+            "name_eng": "Meow",
+            "name_kor": "야옹",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/132.jpg"
+        },
+        {
+            "code": "129",
+            "name_eng": "Gu Gu Gu 2 M",
+            "name_kor": "Gu Gu Gu 2 M ",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/129.jpg"
+        },
+        {
+            "code": "221",
+            "name_eng": "Detective Dee 2",
+            "name_kor": "디텍티브 디 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/221.jpg"
+        },
+        {
+            "code": "204",
+            "name_eng": "LuckyBoxes",
+            "name_kor": "럭키 박스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/204.jpg"
+        },
+        {
+            "code": "102",
+            "name_eng": "Fruity Carnival",
+            "name_kor": "프루티 카니발",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/102.jpg"
+        },
+        {
+            "code": "47",
+            "name_eng": "Pharaoh's Gold",
+            "name_kor": "파라오 골드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/47.jpg"
+        },
+        {
+            "code": "13",
+            "name_eng": "Sakura Legend",
+            "name_kor": "사쿠라 레전드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/13.jpg"
+        },
+        {
+            "code": "34",
+            "name_eng": "Gophers War",
+            "name_kor": "고퍼 워",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/34.jpg"
+        },
+        {
+            "code": "27",
+            "name_eng": "Magic World",
+            "name_kor": "매직 월드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/27.jpg"
+        },
+        {
+            "code": "32",
+            "name_eng": "Detective Dee",
+            "name_kor": "명탐정 디",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/32.jpg"
+        },
+        {
+            "code": "80",
+            "name_eng": "Poseidon",
+            "name_kor": "포세이돈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/80.jpg"
+        },
+        {
+            "code": "59",
+            "name_eng": "Summer Mood",
+            "name_kor": "섬머 무드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/59.jpg"
+        },
+        {
+            "code": "76",
+            "name_eng": "WonWonWon",
+            "name_kor": "운수대통",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/76.jpg"
+        },
+        {
+            "code": "95",
+            "name_eng": "Football Boots",
+            "name_kor": "풋볼 부츠",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/95.jpg"
+        },
+        {
+            "code": "96",
+            "name_eng": "Football Baby",
+            "name_kor": "풋볼 베이비",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/96.jpg"
+        },
+        {
+            "code": "146",
+            "name_eng": "Sky Lanterns",
+            "name_kor": "스카이 랜턴",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/146.jpg"
+        },
+        {
+            "code": "57",
+            "name_eng": "The Beast War",
+            "name_kor": "더 비스트 워",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/57.jpg"
+        },
+        {
+            "code": "81",
+            "name_eng": "Treasure Island",
+            "name_kor": "보물섬",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/81.jpg"
+        },
+        {
+            "code": "17",
+            "name_eng": "Great Lion",
+            "name_kor": "그레이트 라이언",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/17.jpg"
+        },
+        {
+            "code": "44",
+            "name_eng": "Fruit King II",
+            "name_kor": "후르츠 킹 II",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/44.jpg"
+        },
+        {
+            "code": "42",
+            "name_eng": "Sherlock Holmes",
+            "name_kor": "셜록 홈즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/42.jpg"
+        },
+        {
+            "code": "20",
+            "name_eng": "888",
+            "name_kor": "888",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/20.jpg"
+        },
+        {
+            "code": "182",
+            "name_eng": "Thor 2",
+            "name_kor": "토르 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/182.jpg"
+        },
+        {
+            "code": "104",
+            "name_eng": "Chicky Parm Parm",
+            "name_kor": "치키 팜 팜",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/104.jpg"
+        },
+        {
+            "code": "122",
+            "name_eng": "Zuma Wild",
+            "name_kor": "캔디 주마",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/122.jpg"
+        },
+        {
+            "code": "77",
+            "name_eng": "Red Phoenix",
+            "name_kor": "레드 포닉스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/77.jpg"
+        },
+        {
+            "code": "130",
+            "name_eng": "Gold Stealer",
+            "name_kor": "황금 도둑",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/130.jpg"
+        },
+        {
+            "code": "86",
+            "name_eng": "RunningToro",
+            "name_kor": "러닝 토로",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/86.jpg"
+        },
+        {
+            "code": "66",
+            "name_eng": "Fire 777",
+            "name_kor": "파이어 777",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/66.jpg"
+        },
+        {
+            "code": "70",
+            "name_eng": "Wanbao Dino",
+            "name_kor": "완바오 다이너소어",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/70.jpg"
+        },
+        {
+            "code": "2",
+            "name_eng": "God Of Chess",
+            "name_kor": "갓 오브 체스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/2.jpg"
+        },
+        {
+            "code": "98",
+            "name_eng": "All Star Team",
+            "name_kor": "모든 스타 팀",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/98.jpg"
+        },
+        {
+            "code": "51",
+            "name_eng": "Ecstatic Circus",
+            "name_kor": "엑스타틱 서커스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/51.jpg"
+        },
+        {
+            "code": "135",
+            "name_eng": "Gu Gu Gu M",
+            "name_kor": "Gu Gu Gu M ",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/135.jpg"
+        },
+        {
+            "code": "103",
+            "name_eng": "Jewel Luxury",
+            "name_kor": "쥬얼 럭셔리",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/103.jpg"
+        },
+        {
+            "code": "38",
+            "name_eng": "All Wilds",
+            "name_kor": "올 와일드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/38.jpg"
+        },
+        {
+            "code": "35",
+            "name_eng": "Crazy Nuozha",
+            "name_kor": "나타",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/35.jpg"
+        },
+        {
+            "code": "49",
+            "name_eng": "Lonely Planet",
+            "name_kor": "론리 플래닛",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/49.jpg"
+        },
+        {
+            "code": "141",
+            "name_eng": "Xmas",
+            "name_kor": "Xmas",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/141.jpg"
+        },
+        {
+            "code": "92",
+            "name_eng": "World Cup Russia2018",
+            "name_kor": "2018 러시아 월드컵",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/92.jpg"
+        },
+        {
+            "code": "21",
+            "name_eng": "Big Wolf",
+            "name_kor": "빅 울프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/21.jpg"
+        },
+        {
+            "code": "AS08",
+            "name_eng": "Golden Mayan",
+            "name_kor": "골든 마얀",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS08.jpg"
+        },
+        {
+            "code": "AS01",
+            "name_eng": "Boots Of Luck",
+            "name_kor": "부츠 오브 럭",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS01.jpg"
+        },
+        {
+            "code": "22",
+            "name_eng": "Monkey Office Legend",
+            "name_kor": "몽키 오피스 레전드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/22.jpg"
+        },
+        {
+            "code": "36",
+            "name_eng": "Pub Tycoon",
+            "name_kor": "펍 타이쿤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/36.jpg"
+        },
+        {
+            "code": "AS04",
+            "name_eng": "Fortune Spirits",
+            "name_kor": "포츈 스피리츠",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS04.jpg"
+        },
+        {
+            "code": "AS33",
+            "name_eng": "Pig Of Luck",
+            "name_kor": "피그 오브 럭",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS33.jpg"
+        },
+        {
+            "code": "AS03",
+            "name_eng": "Dragon Hunters",
+            "name_kor": "드래곤 헌터스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS03.jpg"
+        },
+        {
+            "code": "AS17",
+            "name_eng": "Treasure of Seti",
+            "name_kor": "트래져 오브 세티",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS17.jpg"
+        },
+        {
+            "code": "AS10",
+            "name_eng": "Lucky 3",
+            "name_kor": "럭키 3",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS10.jpg"
+        },
+        {
+            "code": "AS18",
+            "name_eng": "Wild Fudge",
+            "name_kor": "와일드 퍼지",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS18.jpg"
+        },
+        {
+            "code": "AS02",
+            "name_eng": "Cirque de fous",
+            "name_kor": "써크 데포스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS02.jpg"
+        },
+        {
+            "code": "AS19",
+            "name_eng": "Xmas Tales",
+            "name_kor": "Xmas 테일즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS19.jpg"
+        },
+        {
+            "code": "AS20",
+            "name_eng": "Queen Of Dead",
+            "name_kor": "큅 오브 데드",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS20.jpg"
+        },
+        {
+            "code": "AS09",
+            "name_eng": "Hollywood Pets",
+            "name_kor": "헐리우드 펫츠",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/AS09.jpg"
+        },
+        {
+            "code": "184",
+            "name_eng": "Six Gacha",
+            "name_kor": "식스 가차",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/184.jpg"
+        },
+        {
+            "code": "199",
+            "name_eng": "Songkran Festival",
+            "name_kor": "송크란 축제",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/199.jpg"
+        },
+        {
+            "code": "206",
+            "name_eng": "Sweet POP",
+            "name_kor": "스위트 팝",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/206.jpg"
+        },
+        {
+            "code": "208",
+            "name_eng": "Money Tree",
+            "name_kor": "머니 트리",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/208.jpg"
+        },
+        {
+            "code": "209",
+            "name_eng": "The Cupids",
+            "name_kor": "더 큐피즈",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/209.jpg"
+        },
+        {
+            "code": "210",
+            "name_eng": "Oo Ga Cha Ka",
+            "name_kor": "우 가 차 카",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/210.jpg"
+        },
+        {
+            "code": "212",
+            "name_eng": "Burning Xi-You",
+            "name_kor": "버닝 시-유",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/212.jpg"
+        },
+        {
+            "code": "214",
+            "name_eng": "Ninja Raccoon",
+            "name_kor": "닌자 라쿤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/214.jpg"
+        },
+        {
+            "code": "215",
+            "name_eng": "Hot Pinatas",
+            "name_kor": "핫 피나타스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/215.jpg"
+        },
+        {
+            "code": "211",
+            "name_eng": "King of Atlantis",
+            "name_kor": "킹 오브 아틀란티스",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/211.jpg"
+        },
+        {
+            "code": "GB2",
+            "name_eng": "Monster Hunter",
+            "name_kor": "몬스터 헌터",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB2.jpg"
+        },
+        {
+            "code": "177",
+            "name_eng": "Aladdin's lamp",
+            "name_kor": "알라딘스 램프",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/177.jpg"
+        },
+        {
+            "code": "GB6",
+            "name_eng": "Ganesha Jr.",
+            "name_kor": "작은 코끼리신",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB6.jpg"
+        },
+        {
+            "code": "218",
+            "name_eng": "Dollar Bomb",
+            "name_kor": "달러 밤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/218.jpg"
+        },
+        {
+            "code": "219",
+            "name_eng": "King Kong Shake",
+            "name_kor": "킹 콩 셰이크",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/219.jpg"
+        },
+        {
+            "code": "222",
+            "name_eng": "Loy Krathong",
+            "name_kor": "로이 크라통",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/222.jpg"
+        },
+        {
+            "code": "GB3",
+            "name_eng": "Coin Spinner",
+            "name_kor": "코인 스피너",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB3.jpg"
+        },
+        {
+            "code": "GB5",
+            "name_eng": "Hot DJ",
+            "name_kor": "핫 DJ",
+            "type": "slot",
+            "is_desktop": 0,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB5.jpg"
+        },
+        {
+            "code": "GB8",
+            "name_eng": "Dragon Koi",
+            "name_kor": "드래곤 코이",
+            "type": "slot",
+            "is_desktop": 0,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB8.jpg"
+        },
+        {
+            "code": "223",
+            "name_eng": "Acrobatics",
+            "name_kor": "곡예",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/223.jpg"
+        },
+        {
+            "code": "171",
+            "name_eng": "Greek Gods",
+            "name_kor": "그리스 신들",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/171.jpg"
+        },
+        {
+            "code": "187",
+            "name_eng": "Wing Chun",
+            "name_kor": "윙춘",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/187.jpg"
+        },
+        {
+            "code": "188",
+            "name_eng": "Cricket Fever",
+            "name_kor": "크리켓 열병",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/188.jpg"
+        },
+        {
+            "code": "185",
+            "name_eng": "Dragon Ball",
+            "name_kor": "드래곤 볼",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/185.jpg"
+        },
+        {
+            "code": "186",
+            "name_eng": "Fire Queen 2",
+            "name_kor": "파이어 퀸 2",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/186.jpg"
+        },
+        {
+            "code": "194",
+            "name_eng": "Fortune Dragon",
+            "name_kor": "포춘 드래곤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/194.jpg"
+        },
+        {
+            "code": "195",
+            "name_eng": "Lord Ganesha",
+            "name_kor": "가네샤",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/195.jpg"
+        },
+        {
+            "code": "5007",
+            "name_eng": "Da Fa Cai",
+            "name_kor": "다 파 카이",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/5007.jpg"
+        },
+        {
+            "code": "5008",
+            "name_eng": "Da Hong Zhong",
+            "name_kor": "다 홍 총",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/5008.jpg"
+        },
+        {
+            "code": "5009",
+            "name_eng": "Uproar in Heaven",
+            "name_kor": "업로어 인 헤븐",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/5009.jpg"
+        },
+        {
+            "code": "197",
+            "name_eng": "Dragon's Treasure",
+            "name_kor": "용의 보물",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/197.jpg"
+        },
+        {
+            "code": "226",
+            "name_eng": "Lucky Tigers",
+            "name_kor": "럭키 타이거",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/226.jpg"
+        },
+        {
+            "code": "225",
+            "name_eng": "Mr. Miser",
+            "name_kor": "재물광 요정",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/225.jpg"
+        },
+        {
+            "code": "227",
+            "name_eng": "888 Cai Shen",
+            "name_kor": "대박 재물신",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/227.jpg"
+        },
+        {
+            "code": "GB9",
+            "name_eng": "Football Fever",
+            "name_kor": "축구 열풍",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB9.jpg"
+        },
+        {
+            "code": "228",
+            "name_eng": "Mirror Mirror",
+            "name_kor": "미러미러",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/228.jpg"
+        },
+        {
+            "code": "229",
+            "name_eng": "Night City",
+            "name_kor": "불야성",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/229.jpg"
+        },
+        {
+            "code": "GB12",
+            "name_eng": "Myeong-ryang",
+            "name_kor": "명량",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB12.jpg"
+        },
+        {
+            "code": "230",
+            "name_eng": "Baseball Fever",
+            "name_kor": "열혈야구",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/230.jpg"
+        },
+        {
+            "code": "GB13",
+            "name_eng": "Football Fever M",
+            "name_kor": "축구 열풍 M",
+            "type": "slot",
+            "is_desktop": 0,
+            "is_mobile": 1,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/GB13.jpg"
+        },
+        {
+            "code": "220",
+            "name_eng": "Floating Market",
+            "name_kor": "플로팅 마켓",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/220.jpg"
+        },
+        {
+            "code": "231",
+            "name_eng": "Striker WILD",
+            "name_kor": "태극전사",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/231.jpg"
+        },
+        {
+            "code": "241",
+            "name_eng": "The Chicken House",
+            "name_kor": "치킨 하우스 ",
+            "type": "slot",
+            "is_desktop": 1,
+            "is_mobile": 0,
+            "img_1": "https://vedaimg.enjoycx.com/img/game/cq9/241.jpg"
+        }
+    ]
+}

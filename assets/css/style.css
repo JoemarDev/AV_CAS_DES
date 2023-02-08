@@ -15,6 +15,23 @@ body {
     animation: aniLogo 2.6s infinite;
 }
 
+textarea:focus {
+    outline: none;
+}
+
+.input-1 {
+    border: 1px solid #ccc;
+    background: #f7f7f7;
+    color: #222;
+    font-size: 12px;
+    padding: 2px 5px;
+    line-height: 33px;
+    height: 33px;
+    transition: 0.2s;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
 
 @keyframes aniLogo {
     0% {
@@ -208,4 +225,118 @@ input:focus {
     position: relative;
     z-index: 5;
     background: #eee;
+}
+
+.attend-top {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.attend-top button {
+    margin: 0 10px;
+    font-family: Nanum Square !important;
+    font-size: 20px;
+}
+
+#nowMonth {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 40px;
+    color: #C30000;
+}
+
+#t_calendar {
+    border: solid 1px #ccc;
+    border-collapse: collapse;
+}
+
+#t_calendar th {
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-top: solid 2px #ffcc00;
+    background: #eee;
+}
+
+#t_calendar td {
+    height: 80px;
+    text-align: center;
+    position: relative;
+    border: 1px solid #ccc !important;
+}
+
+#t_calendar td span {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    font-weight: bold;
+}
+
+.att_on {
+    background: url('../images/icons/icon-attend-click.png') no-repeat center center !important;
+}
+
+.att_off {
+    background: url('../images/icons/icon-attend-x.png') no-repeat center center !important;
+    opacity: 0.7;
+}
+
+.att_enable {
+    background: rgba(50, 50, 50, 0.1) url("../images/icons/icon-attend-click.png") no-repeat center center !important;
+    color: #cc0000;
+}
+
+.att_enable:hover {
+    opacity: 0.6;
+}
+
+.att_give p {
+    background: url("../images/icons/icon-happy.png") no-repeat 30px center !important;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 20px 0 0 90px;
+    text-align: left;
+}
+
+.att_give p strong {
+    color: #EF0003;
+    font-weight: bold;
+}
+
+.result_menu2 {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    display: block;
+    height: 54px;
+}
+
+.result_menu2 li a {
+    width: inherit;
+    padding: 0 5px;
+    color: #ffffff;
+}
+
+.bank-time-table {
+    border-collapse: collapse;
+    border-bottom: none;
+    background: #eee;
+}
+
+.bank-time-table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    color: #222;
+}
+
+.bank-time-table th {
+    padding: 10px;
+    color: #000;
+    background: #eee;
+    border: 1px solid #ccc;
+    border-right: 1px solid #ccc;
 }

@@ -1,5 +1,18 @@
+let isLogin = true;
+
+const Init = () => {
+    if (isLogin) {
+        $('.member_box').show()
+        $('.guess_box').hide();
+    } else {
+        $('.member_box').hide()
+        $('.guess_box').show();
+    }
+}
+
 $(document).ready(() => {
     InitCarousel();
+    Init();
 });
 
 const OpenLoginForm = () => $('.LOGIN_WRAPPER').show();

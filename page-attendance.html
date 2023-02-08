@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AVEN CASINO | MINI GAME</title>
+    <title>AVEN CASINO | NOTICE</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="./assets/css/style.css">
     <script src="./assets/js/tailwind.js"></script>
@@ -14,8 +14,6 @@
     <!-- Owl Carousel -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js"></script>
-
-
 </head>
 
 <body class="relative">
@@ -250,79 +248,181 @@
     <!-- Main Content Section -->
 
     <div class="title p-5">
-        <h2 class="text-2xl font-bold mb-5">미니게임 <span class="text-black/50">Mini Game</span></h2>
+        <h2 class="text-2xl font-bold mb-5">출석하기 <span class="text-black/50">Attendance</span></h2>
         <hr>
     </div>
 
-    <div class="content grid grid-cols-9 px-5">
-        <div class="col-span-4">
-            <img class="effect-1 content-image mx-auto" src="./assets/images/minigame/main.png" alt="">
+    <div class="px-5">
+        <div class="flex gap-2">
+            <button class="bg-theme-1 py-2 px-4 rounded border rounded bg-theme-2/5">출석부</button>
+            <button class="bg-theme-1 py-2 px-4 rounded border rounded bg-theme-2/5">룰렛게임</button>
+            <button class="bg-theme-1 py-2 px-4 rounded border rounded bg-theme-2/5">복권긁기</button>
         </div>
-        <div class="col-span-5">
-            <div class="grid grid-cols-3  max-2xl:grid-cols-3 gap-5">
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/1.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/2.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/3.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/4.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/5.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/6.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/7.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/8.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/9.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/10.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/11.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/12.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/13.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/14.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/15.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/16.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/17.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/18.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/19.png" alt="">
-                </div>
-                <div class="game-image mb-2" onclick="OpenLoginForm()">
-                    <img src="./assets/images/minigame/20.png" alt="">
-                </div>
-            </div>
+        <div class="attend-top">
+            <button type="button" id="beforeMonth" data-value="2023-01"><i class="fa fa-angle-double-left"
+                    aria-hidden="true"></i> 이전달</button>
+            <span id="nowMonth">2023-02</span>
+            <button type="button" id="nextMonth" data-value="2023-03">다음달 <i class="fa fa-angle-double-right"
+                    aria-hidden="true"></i></button>
         </div>
+        <table class="mb-12" width="100%" height="" border="0" cellpadding="0" cellspacing="0" id="t_calendar">
+            <tbody>
+                <tr>
+                    <th width="15%" align="center" class="td_title_bg b">
+                        <font color="red">일</font>
+                    </th>
+                    <th width="14%" align="center" class="td_title_bg b">월</th>
+                    <th width="14%" align="center" class="td_title_bg b">화</th>
+                    <th width="14%" align="center" class="td_title_bg b">수</th>
+                    <th width="14%" align="center" class="td_title_bg b">목</th>
+                    <th width="14%" align="center" class="td_title_bg b">금</th>
+                    <th width="15%" align="center" class="td_title_bg b">
+                        <font color="#006699">토</font>
+                    </th>
+                </tr>
+            </tbody>
+            <tbody id="lists">
+                <tr>
+                    <td class="_right">&nbsp;</td>
+                    <td class="_right">&nbsp;</td>
+                    <td class="_right">&nbsp;</td>
+                    <td class="at att_off att_disabled" data-date="2023-02-01" align="right" bgcolor="" style=""> <span>
+                            1</span></td>
+                    <td class="at att_off att_disabled" data-date="2023-02-02" align="right" bgcolor="" style=""> <span>
+                            2</span></td>
+                    <td class="at att_off att_disabled" data-date="2023-02-03" align="right" bgcolor="" style=""> <span>
+                            3</span></td>
+                    <td class="at att_off att_disabled" data-date="2023-02-04" align="right" bgcolor="" style=""> <span>
+                            4</span></td>
+                </tr>
+                <tr>
+                    <td class="at att_off att_disabled" data-date="2023-02-05" align="right" bgcolor="" style=""> <span>
+                            5</span></td>
+                    <td class="at att_off att_disabled" data-date="2023-02-06" align="right" bgcolor="" style=""> <span>
+                            6</span></td>
+                    <td class="at att_off att_disabled" data-date="2023-02-07" align="right" bgcolor="" style=""> <span>
+                            7</span></td>
+                    <td class="at att_off att_enable" data-date="2023-02-08" align="right" bgcolor=""
+                        style="cursor: pointer;">
+                        <span> 8</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-09" align="right" bgcolor="" style="">
+                        <span>
+                            9</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-10" align="right" bgcolor="" style="">
+                        <span>
+                            10</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-11" align="right" bgcolor="" style="">
+                        <span>
+                            11</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="at att_give att_disabled" data-date="2023-02-12" align="right" bgcolor="" style="">
+                        <span>
+                            12</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-13" align="right" bgcolor="" style="">
+                        <span>
+                            13</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-14" align="right" bgcolor="" style="">
+                        <span>
+                            14</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-15" align="right" bgcolor="" style="">
+                        <span>
+                            15</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-16" align="right" bgcolor="" style="">
+                        <span>
+                            16</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-17" align="right" bgcolor="" style="">
+                        <span>
+                            17</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-18" align="right" bgcolor="" style="">
+                        <span>
+                            18</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="at att_give att_disabled" data-date="2023-02-19" align="right" bgcolor="" style="">
+                        <span>
+                            19</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-20" align="right" bgcolor="" style="">
+                        <span>
+                            20</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-21" align="right" bgcolor="" style="">
+                        <span>
+                            21</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-22" align="right" bgcolor="" style="">
+                        <span>
+                            22</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-23" align="right" bgcolor="" style="">
+                        <span>
+                            23</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-24" align="right" bgcolor="" style="">
+                        <span>
+                            24</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-25" align="right" bgcolor="" style="">
+                        <span>
+                            25</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="at att_give att_disabled" data-date="2023-02-26" align="right" bgcolor="" style="">
+                        <span>
+                            26</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-27" align="right" bgcolor="" style="">
+                        <span>
+                            27</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="at att_give att_disabled" data-date="2023-02-28" align="right" bgcolor="" style="">
+                        <span>
+                            28</span>
+                        <p>코인<br><strong>2</strong> 개</p>
+                    </td>
+                    <td class="_top _right">&nbsp;</td>
+                    <td class="_top _right">&nbsp;</td>
+                    <td class="_top _right">&nbsp;</td>
+                    <td class="_top _right">&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+
     </div>
+
 
     <!-- Main Content Section -->
 

@@ -1,4 +1,4 @@
-let isLogin = true;
+let isLogin = false;
 
 const Init = () => {
     if (isLogin) {
@@ -39,4 +39,10 @@ const InitCarousel = () => {
 
 $('.brand-container').click(() => {
     window.location = "index.html";
+})
+
+$('.login-button').click(() => {
+    isLogin = true;
+    CloseLoginForm()
+    Init();
 })
